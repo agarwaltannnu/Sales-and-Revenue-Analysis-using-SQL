@@ -92,11 +92,11 @@ Or manually import the CSV via MySQL Workbench → Table Data Import Wizard (rig
 
 ### Region-wise Performance
 
-![Region Performance](region_performance.png)
+![Region Performance](region_wise.png)
 
 ### Customer Segment Analysis
 
-![Customer Segment](customer_segment.png)
+![Customer Segment](segment_analysis.png)
 
 ### Year-over-Year Growth
 
