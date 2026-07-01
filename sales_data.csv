@@ -1,0 +1,1001 @@
+order_id,order_date,customer_id,customer_name,city,segment,region,category,product_name,quantity,unit_price,unit_cost,discount,revenue,profit
+ORD0001,2023-10-17,C004,Sneha Patel,Ahmedabad,SME,South,Electronics,Laptop Pro 15,5,45000,28000,0,225000,85000
+ORD0002,2022-04-15,C001,Aarav Sharma,Delhi,Retail,North,Appliances,Microwave 20L,10,8000,4500,0.05,76000.0,33250.0
+ORD0003,2022-08-12,C009,Mohit Verma,Pune,SME,South,Furniture,Study Table,10,5500,3000,0,55000,25000
+ORD0004,2023-10-28,C010,Ritu Joshi,Lucknow,Retail,East,Appliances,Room Heater,4,3000,1500,0.05,11400.0,5700.0
+ORD0005,2022-06-13,C004,Sneha Patel,Ahmedabad,Retail,East,Clothing,Denim Jeans,5,1800,750,0,9000,5250
+ORD0006,2022-04-05,C010,Ritu Joshi,Lucknow,Retail,East,Clothing,Men's Formal Shirt,6,1200,500,0,7200,4200
+ORD0007,2023-04-16,C009,Mohit Verma,Pune,SME,East,Appliances,Microwave 20L,7,8000,4500,0,56000,24500
+ORD0008,2023-09-26,C002,Priya Mehta,Mumbai,SME,North,Office Supplies,Sticky Notes,4,200,80,0.15,680.0,408.0
+ORD0009,2022-08-22,C007,Arjun Nair,Chennai,Corporate,East,Office Supplies,A4 Paper Ream,4,350,150,0,1400,800
+ORD0010,2023-10-13,C004,Sneha Patel,Ahmedabad,SME,East,Office Supplies,Stapler Set,6,600,250,0,3600,2100
+ORD0011,2023-12-01,C012,Pooja Saxena,Indore,Retail,South,Electronics,Tablet 10,3,15000,9000,0.1,40500.0,16200.0
+ORD0012,2023-04-19,C011,Siddharth Das,Bhopal,Retail,East,Clothing,Denim Jeans,9,1800,750,0,16200,9450
+ORD0013,2022-08-23,C002,Priya Mehta,Mumbai,SME,South,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0014,2022-11-19,C008,Kavya Iyer,Hyderabad,Corporate,South,Furniture,Sofa 3-Seater,7,25000,14000,0.15,148750.0,65450.0
+ORD0015,2022-05-23,C012,Pooja Saxena,Indore,SME,West,Furniture,Study Table,9,5500,3000,0,49500,22500
+ORD0016,2023-02-13,C008,Kavya Iyer,Hyderabad,Retail,North,Office Supplies,Stapler Set,3,600,250,0.1,1620.0,945.0
+ORD0017,2022-04-23,C002,Priya Mehta,Mumbai,Corporate,West,Furniture,Standing Desk,7,12000,7000,0.1,75600.0,31500.0
+ORD0018,2023-09-03,C014,Neha Bhatia,Chandigarh,SME,North,Clothing,Sports Tshirt,5,800,300,0.1,3600.0,2250.0
+ORD0019,2022-04-28,C005,Vikram Singh,Jaipur,Retail,West,Appliances,Electric Kettle,6,1500,700,0,9000,4800
+ORD0020,2023-04-10,C009,Mohit Verma,Pune,SME,North,Electronics,Smartphone X,9,22000,12000,0,198000,90000
+ORD0021,2022-11-02,C006,Ananya Roy,Kolkata,SME,South,Appliances,Table Fan,4,1800,900,0,7200,3600
+ORD0022,2023-06-28,C001,Aarav Sharma,Delhi,Corporate,North,Electronics,Tablet 10,6,15000,9000,0.05,85500.0,34200.0
+ORD0023,2022-11-11,C002,Priya Mehta,Mumbai,SME,North,Furniture,Office Chair,4,6500,3200,0.1,23400.0,11880.0
+ORD0024,2023-05-13,C011,Siddharth Das,Bhopal,SME,West,Electronics,Tablet 10,3,15000,9000,0,45000,18000
+ORD0025,2022-06-19,C004,Sneha Patel,Ahmedabad,SME,South,Office Supplies,Sticky Notes,10,200,80,0.05,1900.0,1140.0
+ORD0026,2022-11-16,C008,Kavya Iyer,Hyderabad,Retail,North,Clothing,Denim Jeans,8,1800,750,0.1,12960.0,7560.0
+ORD0027,2022-08-19,C009,Mohit Verma,Pune,SME,South,Electronics,Smartphone X,1,22000,12000,0.1,19800.0,9000.0
+ORD0028,2022-08-14,C002,Priya Mehta,Mumbai,Corporate,North,Electronics,Laptop Pro 15,1,45000,28000,0,45000,17000
+ORD0029,2022-03-14,C008,Kavya Iyer,Hyderabad,SME,South,Appliances,Air Purifier,5,12000,7000,0.15,51000.0,21250.0
+ORD0030,2022-05-16,C013,Rahul Tiwari,Nagpur,Corporate,West,Appliances,Table Fan,8,1800,900,0,14400,7200
+ORD0031,2022-07-14,C007,Arjun Nair,Chennai,Corporate,West,Electronics,Laptop Pro 15,7,45000,28000,0,315000,119000
+ORD0032,2022-02-25,C006,Ananya Roy,Kolkata,Retail,North,Electronics,Laptop Pro 15,7,45000,28000,0.15,267750.0,101150.0
+ORD0033,2022-07-16,C007,Arjun Nair,Chennai,Corporate,South,Furniture,Study Table,8,5500,3000,0,44000,20000
+ORD0034,2023-04-19,C002,Priya Mehta,Mumbai,SME,North,Furniture,Office Chair,8,6500,3200,0.1,46800.0,23760.0
+ORD0035,2023-07-08,C007,Arjun Nair,Chennai,Corporate,West,Electronics,Laptop Pro 15,4,45000,28000,0,180000,68000
+ORD0036,2022-08-07,C001,Aarav Sharma,Delhi,Corporate,West,Clothing,Men's Formal Shirt,3,1200,500,0.05,3420.0,1995.0
+ORD0037,2023-04-11,C012,Pooja Saxena,Indore,Retail,West,Office Supplies,Whiteboard,9,2500,1200,0.15,19125.0,9945.0
+ORD0038,2022-07-14,C012,Pooja Saxena,Indore,SME,North,Office Supplies,Stapler Set,1,600,250,0.1,540.0,315.0
+ORD0039,2022-11-18,C009,Mohit Verma,Pune,Retail,South,Electronics,Laptop Pro 15,10,45000,28000,0.05,427500.0,161500.0
+ORD0040,2023-06-05,C002,Priya Mehta,Mumbai,Corporate,South,Electronics,Wireless Earbuds,2,3500,1200,0.1,6300.0,4140.0
+ORD0041,2022-05-03,C001,Aarav Sharma,Delhi,Corporate,North,Appliances,Air Purifier,10,12000,7000,0.1,108000.0,45000.0
+ORD0042,2023-11-05,C015,Amit Kumar,Patna,Retail,East,Appliances,Table Fan,9,1800,900,0,16200,8100
+ORD0043,2023-11-17,C003,Rohan Gupta,Bangalore,Corporate,East,Office Supplies,Stapler Set,5,600,250,0.05,2850.0,1662.5
+ORD0044,2022-11-20,C010,Ritu Joshi,Lucknow,Retail,North,Electronics,Laptop Pro 15,8,45000,28000,0.1,324000.0,122400.0
+ORD0045,2023-07-05,C015,Amit Kumar,Patna,Retail,East,Furniture,Study Table,5,5500,3000,0,27500,12500
+ORD0046,2022-09-08,C014,Neha Bhatia,Chandigarh,SME,East,Office Supplies,Pen Box 50,3,300,100,0.05,855.0,570.0
+ORD0047,2023-11-01,C015,Amit Kumar,Patna,Retail,North,Appliances,Microwave 20L,9,8000,4500,0,72000,31500
+ORD0048,2022-09-28,C005,Vikram Singh,Jaipur,SME,East,Electronics,Laptop Pro 15,9,45000,28000,0,405000,153000
+ORD0049,2022-08-04,C008,Kavya Iyer,Hyderabad,Retail,East,Office Supplies,Stapler Set,5,600,250,0.1,2700.0,1575.0
+ORD0050,2022-04-05,C006,Ananya Roy,Kolkata,SME,South,Clothing,Denim Jeans,1,1800,750,0,1800,1050
+ORD0051,2022-09-26,C007,Arjun Nair,Chennai,Retail,North,Furniture,Sofa 3-Seater,9,25000,14000,0.15,191250.0,84150.0
+ORD0052,2022-03-19,C010,Ritu Joshi,Lucknow,Corporate,South,Furniture,Study Table,1,5500,3000,0,5500,2500
+ORD0053,2022-05-11,C015,Amit Kumar,Patna,Retail,East,Electronics,Smartphone X,6,22000,12000,0,132000,60000
+ORD0054,2023-11-30,C015,Amit Kumar,Patna,SME,West,Furniture,Office Chair,6,6500,3200,0.1,35100.0,17820.0
+ORD0055,2022-06-08,C001,Aarav Sharma,Delhi,SME,South,Furniture,Standing Desk,3,12000,7000,0.05,34200.0,14250.0
+ORD0056,2022-12-07,C013,Rahul Tiwari,Nagpur,Corporate,North,Clothing,Women's Kurta,5,900,380,0,4500,2600
+ORD0057,2022-02-09,C006,Ananya Roy,Kolkata,Retail,East,Clothing,Women's Kurta,4,900,380,0.05,3420.0,1976.0
+ORD0058,2022-08-17,C005,Vikram Singh,Jaipur,Corporate,North,Electronics,Wireless Earbuds,7,3500,1200,0,24500,16100
+ORD0059,2022-12-26,C001,Aarav Sharma,Delhi,Corporate,North,Appliances,Room Heater,9,3000,1500,0,27000,13500
+ORD0060,2022-07-02,C010,Ritu Joshi,Lucknow,Corporate,West,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0061,2022-11-18,C007,Arjun Nair,Chennai,Corporate,South,Clothing,Sports Tshirt,9,800,300,0,7200,4500
+ORD0062,2022-02-15,C011,Siddharth Das,Bhopal,Corporate,South,Clothing,Men's Formal Shirt,9,1200,500,0.1,9720.0,5670.0
+ORD0063,2023-03-18,C011,Siddharth Das,Bhopal,SME,North,Electronics,Smartphone X,10,22000,12000,0,220000,100000
+ORD0064,2022-11-04,C007,Arjun Nair,Chennai,SME,East,Appliances,Electric Kettle,7,1500,700,0,10500,5600
+ORD0065,2022-05-11,C012,Pooja Saxena,Indore,SME,South,Furniture,Sofa 3-Seater,7,25000,14000,0.15,148750.0,65450.0
+ORD0066,2023-08-06,C005,Vikram Singh,Jaipur,Retail,East,Office Supplies,Whiteboard,9,2500,1200,0,22500,11700
+ORD0067,2023-03-17,C008,Kavya Iyer,Hyderabad,SME,West,Appliances,Table Fan,6,1800,900,0.05,10260.0,5130.0
+ORD0068,2022-08-07,C002,Priya Mehta,Mumbai,SME,East,Appliances,Room Heater,3,3000,1500,0.15,7650.0,3825.0
+ORD0069,2023-11-11,C011,Siddharth Das,Bhopal,Retail,East,Appliances,Electric Kettle,2,1500,700,0,3000,1600
+ORD0070,2022-07-23,C008,Kavya Iyer,Hyderabad,Corporate,North,Furniture,Office Chair,1,6500,3200,0,6500,3300
+ORD0071,2023-03-01,C007,Arjun Nair,Chennai,Retail,South,Appliances,Air Purifier,7,12000,7000,0.05,79800.0,33250.0
+ORD0072,2023-11-03,C003,Rohan Gupta,Bangalore,Retail,West,Electronics,Laptop Pro 15,7,45000,28000,0,315000,119000
+ORD0073,2023-07-25,C013,Rahul Tiwari,Nagpur,SME,West,Furniture,Office Chair,8,6500,3200,0,52000,26400
+ORD0074,2023-06-28,C010,Ritu Joshi,Lucknow,SME,West,Appliances,Table Fan,6,1800,900,0.05,10260.0,5130.0
+ORD0075,2023-04-02,C013,Rahul Tiwari,Nagpur,SME,South,Furniture,Sofa 3-Seater,8,25000,14000,0,200000,88000
+ORD0076,2022-10-11,C008,Kavya Iyer,Hyderabad,SME,North,Appliances,Room Heater,4,3000,1500,0,12000,6000
+ORD0077,2022-10-20,C015,Amit Kumar,Patna,Retail,North,Furniture,Bookshelf,6,4000,2000,0,24000,12000
+ORD0078,2022-06-04,C004,Sneha Patel,Ahmedabad,Corporate,North,Furniture,Sofa 3-Seater,3,25000,14000,0.15,63750.0,28050.0
+ORD0079,2023-02-22,C001,Aarav Sharma,Delhi,Corporate,South,Office Supplies,Sticky Notes,8,200,80,0.05,1520.0,912.0
+ORD0080,2023-02-03,C008,Kavya Iyer,Hyderabad,Corporate,North,Appliances,Microwave 20L,10,8000,4500,0.05,76000.0,33250.0
+ORD0081,2022-11-02,C012,Pooja Saxena,Indore,Corporate,South,Clothing,Jacket Winter,9,3500,1500,0.15,26775.0,15300.0
+ORD0082,2022-08-13,C007,Arjun Nair,Chennai,SME,East,Office Supplies,Whiteboard,8,2500,1200,0,20000,10400
+ORD0083,2023-11-27,C010,Ritu Joshi,Lucknow,Corporate,North,Clothing,Women's Kurta,8,900,380,0,7200,4160
+ORD0084,2023-08-30,C007,Arjun Nair,Chennai,Corporate,South,Appliances,Microwave 20L,2,8000,4500,0.15,13600.0,5950.0
+ORD0085,2022-07-06,C004,Sneha Patel,Ahmedabad,Corporate,West,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0086,2022-12-12,C014,Neha Bhatia,Chandigarh,Corporate,North,Clothing,Denim Jeans,7,1800,750,0,12600,7350
+ORD0087,2022-01-20,C011,Siddharth Das,Bhopal,SME,North,Appliances,Microwave 20L,6,8000,4500,0,48000,21000
+ORD0088,2022-02-11,C010,Ritu Joshi,Lucknow,Retail,South,Electronics,Wireless Earbuds,4,3500,1200,0,14000,9200
+ORD0089,2022-05-10,C008,Kavya Iyer,Hyderabad,Corporate,East,Clothing,Men's Formal Shirt,10,1200,500,0,12000,7000
+ORD0090,2022-06-21,C005,Vikram Singh,Jaipur,SME,North,Appliances,Table Fan,2,1800,900,0,3600,1800
+ORD0091,2022-01-27,C012,Pooja Saxena,Indore,Retail,South,Office Supplies,Sticky Notes,7,200,80,0.05,1330.0,798.0
+ORD0092,2023-08-30,C010,Ritu Joshi,Lucknow,SME,North,Furniture,Office Chair,5,6500,3200,0.15,27625.0,14025.0
+ORD0093,2022-02-12,C006,Ananya Roy,Kolkata,SME,North,Office Supplies,Sticky Notes,7,200,80,0.15,1190.0,714.0
+ORD0094,2023-10-26,C002,Priya Mehta,Mumbai,Corporate,West,Office Supplies,A4 Paper Ream,7,350,150,0.05,2327.5,1330.0
+ORD0095,2023-10-13,C012,Pooja Saxena,Indore,SME,East,Clothing,Women's Kurta,7,900,380,0,6300,3640
+ORD0096,2023-07-06,C010,Ritu Joshi,Lucknow,Corporate,East,Clothing,Jacket Winter,7,3500,1500,0.15,20825.0,11900.0
+ORD0097,2022-09-09,C013,Rahul Tiwari,Nagpur,SME,West,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0098,2023-09-17,C014,Neha Bhatia,Chandigarh,Retail,East,Clothing,Denim Jeans,1,1800,750,0.05,1710.0,997.5
+ORD0099,2023-05-15,C005,Vikram Singh,Jaipur,SME,East,Furniture,Bookshelf,5,4000,2000,0,20000,10000
+ORD0100,2022-01-11,C012,Pooja Saxena,Indore,Corporate,West,Appliances,Air Purifier,2,12000,7000,0,24000,10000
+ORD0101,2023-07-23,C013,Rahul Tiwari,Nagpur,Retail,North,Furniture,Sofa 3-Seater,8,25000,14000,0.05,190000.0,83600.0
+ORD0102,2022-10-29,C011,Siddharth Das,Bhopal,Corporate,East,Furniture,Sofa 3-Seater,4,25000,14000,0,100000,44000
+ORD0103,2023-07-21,C009,Mohit Verma,Pune,Corporate,East,Appliances,Electric Kettle,7,1500,700,0.15,8925.0,4760.0
+ORD0104,2023-12-21,C004,Sneha Patel,Ahmedabad,SME,North,Clothing,Denim Jeans,5,1800,750,0,9000,5250
+ORD0105,2022-07-17,C003,Rohan Gupta,Bangalore,Retail,South,Office Supplies,A4 Paper Ream,9,350,150,0.15,2677.5,1530.0
+ORD0106,2023-05-11,C005,Vikram Singh,Jaipur,Retail,North,Office Supplies,Sticky Notes,9,200,80,0.1,1620.0,972.0
+ORD0107,2022-10-31,C001,Aarav Sharma,Delhi,Corporate,South,Furniture,Bookshelf,3,4000,2000,0,12000,6000
+ORD0108,2022-02-16,C003,Rohan Gupta,Bangalore,Retail,West,Electronics,Tablet 10,5,15000,9000,0.15,63750.0,25500.0
+ORD0109,2022-01-13,C008,Kavya Iyer,Hyderabad,Retail,East,Appliances,Electric Kettle,8,1500,700,0.05,11400.0,6080.0
+ORD0110,2022-02-22,C007,Arjun Nair,Chennai,Retail,West,Office Supplies,Whiteboard,2,2500,1200,0,5000,2600
+ORD0111,2023-08-14,C005,Vikram Singh,Jaipur,Retail,North,Electronics,Wireless Earbuds,3,3500,1200,0.1,9450.0,6210.0
+ORD0112,2022-05-02,C013,Rahul Tiwari,Nagpur,SME,South,Appliances,Room Heater,10,3000,1500,0.1,27000.0,13500.0
+ORD0113,2023-01-25,C007,Arjun Nair,Chennai,SME,East,Clothing,Jacket Winter,5,3500,1500,0.1,15750.0,9000.0
+ORD0114,2023-09-28,C011,Siddharth Das,Bhopal,Corporate,South,Electronics,Tablet 10,2,15000,9000,0,30000,12000
+ORD0115,2023-11-08,C009,Mohit Verma,Pune,Retail,North,Electronics,Wireless Earbuds,4,3500,1200,0,14000,9200
+ORD0116,2022-01-03,C005,Vikram Singh,Jaipur,Retail,North,Clothing,Jacket Winter,10,3500,1500,0.05,33250.0,19000.0
+ORD0117,2022-10-23,C004,Sneha Patel,Ahmedabad,SME,East,Office Supplies,Whiteboard,2,2500,1200,0.15,4250.0,2210.0
+ORD0118,2023-08-27,C004,Sneha Patel,Ahmedabad,Corporate,South,Furniture,Sofa 3-Seater,2,25000,14000,0.1,45000.0,19800.0
+ORD0119,2022-05-26,C010,Ritu Joshi,Lucknow,Corporate,East,Electronics,Laptop Pro 15,3,45000,28000,0,135000,51000
+ORD0120,2022-05-08,C009,Mohit Verma,Pune,Corporate,West,Clothing,Denim Jeans,7,1800,750,0,12600,7350
+ORD0121,2022-03-24,C006,Ananya Roy,Kolkata,Retail,East,Appliances,Microwave 20L,7,8000,4500,0.15,47600.0,20825.0
+ORD0122,2022-04-04,C013,Rahul Tiwari,Nagpur,SME,East,Furniture,Study Table,10,5500,3000,0,55000,25000
+ORD0123,2022-02-11,C008,Kavya Iyer,Hyderabad,Retail,East,Furniture,Sofa 3-Seater,9,25000,14000,0.15,191250.0,84150.0
+ORD0124,2023-08-23,C006,Ananya Roy,Kolkata,Corporate,West,Clothing,Jacket Winter,2,3500,1500,0.05,6650.0,3800.0
+ORD0125,2022-11-25,C012,Pooja Saxena,Indore,Corporate,West,Electronics,Wireless Earbuds,6,3500,1200,0.05,19950.0,13110.0
+ORD0126,2023-11-10,C002,Priya Mehta,Mumbai,Corporate,East,Clothing,Sports Tshirt,1,800,300,0.05,760.0,475.0
+ORD0127,2022-11-28,C011,Siddharth Das,Bhopal,Corporate,West,Electronics,Smart Watch,9,8000,4500,0,72000,31500
+ORD0128,2022-02-25,C013,Rahul Tiwari,Nagpur,SME,West,Furniture,Study Table,6,5500,3000,0.1,29700.0,13500.0
+ORD0129,2023-03-29,C003,Rohan Gupta,Bangalore,Corporate,East,Electronics,Wireless Earbuds,5,3500,1200,0.1,15750.0,10350.0
+ORD0130,2023-12-17,C010,Ritu Joshi,Lucknow,SME,South,Clothing,Men's Formal Shirt,1,1200,500,0.15,1020.0,595.0
+ORD0131,2022-06-12,C007,Arjun Nair,Chennai,Retail,North,Office Supplies,Sticky Notes,1,200,80,0.1,180.0,108.0
+ORD0132,2022-04-27,C015,Amit Kumar,Patna,SME,East,Clothing,Men's Formal Shirt,3,1200,500,0.05,3420.0,1995.0
+ORD0133,2023-12-24,C004,Sneha Patel,Ahmedabad,SME,West,Office Supplies,Whiteboard,8,2500,1200,0.05,19000.0,9880.0
+ORD0134,2022-05-29,C012,Pooja Saxena,Indore,Retail,South,Clothing,Women's Kurta,10,900,380,0.1,8100.0,4680.0
+ORD0135,2022-10-10,C014,Neha Bhatia,Chandigarh,Corporate,North,Clothing,Denim Jeans,9,1800,750,0,16200,9450
+ORD0136,2022-11-02,C008,Kavya Iyer,Hyderabad,Corporate,West,Appliances,Table Fan,8,1800,900,0,14400,7200
+ORD0137,2022-12-07,C015,Amit Kumar,Patna,Retail,East,Appliances,Table Fan,7,1800,900,0.05,11970.0,5985.0
+ORD0138,2023-12-16,C014,Neha Bhatia,Chandigarh,Retail,West,Furniture,Study Table,7,5500,3000,0,38500,17500
+ORD0139,2022-11-22,C013,Rahul Tiwari,Nagpur,Corporate,South,Clothing,Jacket Winter,7,3500,1500,0.15,20825.0,11900.0
+ORD0140,2022-02-07,C014,Neha Bhatia,Chandigarh,Corporate,North,Furniture,Study Table,10,5500,3000,0,55000,25000
+ORD0141,2022-04-13,C003,Rohan Gupta,Bangalore,SME,West,Appliances,Room Heater,1,3000,1500,0.15,2550.0,1275.0
+ORD0142,2022-06-08,C010,Ritu Joshi,Lucknow,SME,West,Electronics,Smart Watch,5,8000,4500,0,40000,17500
+ORD0143,2022-03-24,C011,Siddharth Das,Bhopal,SME,West,Office Supplies,Sticky Notes,7,200,80,0,1400,840
+ORD0144,2022-02-06,C011,Siddharth Das,Bhopal,Retail,East,Appliances,Microwave 20L,4,8000,4500,0.15,27200.0,11900.0
+ORD0145,2022-04-03,C003,Rohan Gupta,Bangalore,Retail,East,Clothing,Men's Formal Shirt,2,1200,500,0.05,2280.0,1330.0
+ORD0146,2022-02-17,C006,Ananya Roy,Kolkata,Retail,West,Office Supplies,A4 Paper Ream,5,350,150,0,1750,1000
+ORD0147,2022-09-08,C013,Rahul Tiwari,Nagpur,Retail,South,Appliances,Room Heater,10,3000,1500,0.15,25500.0,12750.0
+ORD0148,2022-06-29,C011,Siddharth Das,Bhopal,Corporate,South,Electronics,Tablet 10,7,15000,9000,0.1,94500.0,37800.0
+ORD0149,2023-08-21,C005,Vikram Singh,Jaipur,Corporate,West,Furniture,Standing Desk,8,12000,7000,0.15,81600.0,34000.0
+ORD0150,2023-11-14,C009,Mohit Verma,Pune,Retail,South,Electronics,Smart Watch,5,8000,4500,0.15,34000.0,14875.0
+ORD0151,2023-03-29,C007,Arjun Nair,Chennai,Corporate,East,Office Supplies,Sticky Notes,5,200,80,0.15,850.0,510.0
+ORD0152,2022-11-06,C004,Sneha Patel,Ahmedabad,SME,West,Furniture,Sofa 3-Seater,8,25000,14000,0,200000,88000
+ORD0153,2023-01-03,C014,Neha Bhatia,Chandigarh,Corporate,West,Appliances,Electric Kettle,5,1500,700,0,7500,4000
+ORD0154,2022-01-09,C008,Kavya Iyer,Hyderabad,Retail,East,Appliances,Microwave 20L,10,8000,4500,0.15,68000.0,29750.0
+ORD0155,2023-09-14,C005,Vikram Singh,Jaipur,SME,South,Office Supplies,Stapler Set,4,600,250,0.1,2160.0,1260.0
+ORD0156,2022-04-10,C010,Ritu Joshi,Lucknow,SME,East,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0157,2022-05-15,C007,Arjun Nair,Chennai,Retail,South,Electronics,Smartphone X,6,22000,12000,0.15,112200.0,51000.0
+ORD0158,2022-05-16,C015,Amit Kumar,Patna,Retail,East,Appliances,Electric Kettle,9,1500,700,0.1,12150.0,6480.0
+ORD0159,2022-09-21,C008,Kavya Iyer,Hyderabad,Retail,North,Clothing,Denim Jeans,6,1800,750,0,10800,6300
+ORD0160,2022-08-20,C013,Rahul Tiwari,Nagpur,Retail,West,Clothing,Sports Tshirt,6,800,300,0,4800,3000
+ORD0161,2022-09-28,C011,Siddharth Das,Bhopal,SME,East,Appliances,Microwave 20L,8,8000,4500,0,64000,28000
+ORD0162,2023-01-26,C001,Aarav Sharma,Delhi,SME,East,Office Supplies,A4 Paper Ream,4,350,150,0.05,1330.0,760.0
+ORD0163,2022-08-15,C007,Arjun Nair,Chennai,Retail,North,Electronics,Smart Watch,5,8000,4500,0.15,34000.0,14875.0
+ORD0164,2022-02-16,C002,Priya Mehta,Mumbai,SME,South,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0165,2022-05-19,C012,Pooja Saxena,Indore,SME,West,Clothing,Jacket Winter,6,3500,1500,0.15,17850.0,10200.0
+ORD0166,2022-06-08,C007,Arjun Nair,Chennai,Retail,East,Clothing,Men's Formal Shirt,8,1200,500,0.1,8640.0,5040.0
+ORD0167,2023-12-08,C004,Sneha Patel,Ahmedabad,Retail,East,Office Supplies,Stapler Set,8,600,250,0.05,4560.0,2660.0
+ORD0168,2023-12-04,C007,Arjun Nair,Chennai,Retail,East,Office Supplies,Sticky Notes,6,200,80,0,1200,720
+ORD0169,2022-05-06,C011,Siddharth Das,Bhopal,Retail,North,Clothing,Men's Formal Shirt,4,1200,500,0.15,4080.0,2380.0
+ORD0170,2022-12-08,C002,Priya Mehta,Mumbai,SME,South,Furniture,Standing Desk,10,12000,7000,0,120000,50000
+ORD0171,2022-08-10,C001,Aarav Sharma,Delhi,Retail,East,Furniture,Bookshelf,3,4000,2000,0.1,10800.0,5400.0
+ORD0172,2022-05-14,C011,Siddharth Das,Bhopal,Retail,North,Appliances,Electric Kettle,3,1500,700,0,4500,2400
+ORD0173,2022-01-16,C001,Aarav Sharma,Delhi,Corporate,South,Office Supplies,Stapler Set,10,600,250,0,6000,3500
+ORD0174,2022-02-23,C012,Pooja Saxena,Indore,Corporate,North,Furniture,Sofa 3-Seater,9,25000,14000,0,225000,99000
+ORD0175,2023-04-05,C008,Kavya Iyer,Hyderabad,SME,South,Office Supplies,Sticky Notes,10,200,80,0,2000,1200
+ORD0176,2022-02-14,C001,Aarav Sharma,Delhi,Corporate,North,Appliances,Electric Kettle,8,1500,700,0.15,10200.0,5440.0
+ORD0177,2023-02-16,C015,Amit Kumar,Patna,Retail,West,Clothing,Men's Formal Shirt,8,1200,500,0.15,8160.0,4760.0
+ORD0178,2022-03-24,C003,Rohan Gupta,Bangalore,SME,East,Office Supplies,Sticky Notes,3,200,80,0,600,360
+ORD0179,2023-10-11,C010,Ritu Joshi,Lucknow,Corporate,East,Appliances,Table Fan,6,1800,900,0.05,10260.0,5130.0
+ORD0180,2023-06-02,C002,Priya Mehta,Mumbai,Corporate,South,Appliances,Room Heater,2,3000,1500,0.15,5100.0,2550.0
+ORD0181,2023-04-08,C007,Arjun Nair,Chennai,SME,West,Furniture,Sofa 3-Seater,6,25000,14000,0.05,142500.0,62700.0
+ORD0182,2022-04-08,C005,Vikram Singh,Jaipur,Retail,East,Office Supplies,Whiteboard,6,2500,1200,0.15,12750.0,6630.0
+ORD0183,2023-12-05,C002,Priya Mehta,Mumbai,Retail,West,Clothing,Men's Formal Shirt,2,1200,500,0,2400,1400
+ORD0184,2023-01-17,C009,Mohit Verma,Pune,SME,East,Furniture,Study Table,1,5500,3000,0.1,4950.0,2250.0
+ORD0185,2022-05-06,C001,Aarav Sharma,Delhi,SME,East,Clothing,Denim Jeans,7,1800,750,0.15,10710.0,6247.5
+ORD0186,2022-11-16,C004,Sneha Patel,Ahmedabad,SME,South,Office Supplies,A4 Paper Ream,10,350,150,0.1,3150.0,1800.0
+ORD0187,2023-05-09,C006,Ananya Roy,Kolkata,Corporate,North,Furniture,Office Chair,6,6500,3200,0.1,35100.0,17820.0
+ORD0188,2023-08-11,C010,Ritu Joshi,Lucknow,SME,North,Furniture,Sofa 3-Seater,9,25000,14000,0.1,202500.0,89100.0
+ORD0189,2023-11-05,C012,Pooja Saxena,Indore,Corporate,East,Office Supplies,A4 Paper Ream,3,350,150,0,1050,600
+ORD0190,2022-12-26,C011,Siddharth Das,Bhopal,Retail,West,Electronics,Wireless Earbuds,3,3500,1200,0.1,9450.0,6210.0
+ORD0191,2022-05-26,C007,Arjun Nair,Chennai,Corporate,West,Electronics,Laptop Pro 15,9,45000,28000,0,405000,153000
+ORD0192,2022-12-16,C006,Ananya Roy,Kolkata,Retail,North,Furniture,Bookshelf,5,4000,2000,0.15,17000.0,8500.0
+ORD0193,2022-06-09,C002,Priya Mehta,Mumbai,Corporate,East,Furniture,Study Table,1,5500,3000,0.15,4675.0,2125.0
+ORD0194,2023-11-09,C007,Arjun Nair,Chennai,Retail,East,Clothing,Jacket Winter,10,3500,1500,0.05,33250.0,19000.0
+ORD0195,2023-06-09,C005,Vikram Singh,Jaipur,SME,West,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0196,2023-11-15,C010,Ritu Joshi,Lucknow,Retail,North,Office Supplies,A4 Paper Ream,4,350,150,0.05,1330.0,760.0
+ORD0197,2022-07-29,C005,Vikram Singh,Jaipur,Retail,East,Office Supplies,Stapler Set,3,600,250,0,1800,1050
+ORD0198,2022-01-08,C007,Arjun Nair,Chennai,SME,South,Clothing,Jacket Winter,3,3500,1500,0,10500,6000
+ORD0199,2023-07-27,C001,Aarav Sharma,Delhi,Retail,West,Office Supplies,A4 Paper Ream,7,350,150,0.15,2082.5,1190.0
+ORD0200,2023-04-16,C010,Ritu Joshi,Lucknow,SME,West,Electronics,Smartphone X,10,22000,12000,0.05,209000.0,95000.0
+ORD0201,2023-10-18,C001,Aarav Sharma,Delhi,Retail,East,Clothing,Denim Jeans,2,1800,750,0.05,3420.0,1995.0
+ORD0202,2023-09-25,C014,Neha Bhatia,Chandigarh,Retail,North,Clothing,Denim Jeans,2,1800,750,0.05,3420.0,1995.0
+ORD0203,2023-03-23,C007,Arjun Nair,Chennai,SME,East,Appliances,Room Heater,9,3000,1500,0,27000,13500
+ORD0204,2022-12-14,C009,Mohit Verma,Pune,SME,North,Furniture,Bookshelf,3,4000,2000,0,12000,6000
+ORD0205,2023-06-07,C014,Neha Bhatia,Chandigarh,Retail,South,Furniture,Bookshelf,6,4000,2000,0.15,20400.0,10200.0
+ORD0206,2022-04-16,C010,Ritu Joshi,Lucknow,SME,South,Furniture,Bookshelf,4,4000,2000,0,16000,8000
+ORD0207,2022-03-19,C013,Rahul Tiwari,Nagpur,SME,West,Furniture,Sofa 3-Seater,8,25000,14000,0.1,180000.0,79200.0
+ORD0208,2023-08-02,C008,Kavya Iyer,Hyderabad,Corporate,North,Appliances,Electric Kettle,6,1500,700,0,9000,4800
+ORD0209,2023-03-29,C006,Ananya Roy,Kolkata,Corporate,North,Office Supplies,Pen Box 50,10,300,100,0,3000,2000
+ORD0210,2023-04-18,C014,Neha Bhatia,Chandigarh,Retail,East,Clothing,Men's Formal Shirt,1,1200,500,0,1200,700
+ORD0211,2023-10-23,C007,Arjun Nair,Chennai,SME,West,Electronics,Tablet 10,10,15000,9000,0.1,135000.0,54000.0
+ORD0212,2023-07-22,C004,Sneha Patel,Ahmedabad,SME,East,Electronics,Smart Watch,10,8000,4500,0.15,68000.0,29750.0
+ORD0213,2023-05-03,C002,Priya Mehta,Mumbai,SME,East,Appliances,Air Purifier,1,12000,7000,0.05,11400.0,4750.0
+ORD0214,2022-03-28,C012,Pooja Saxena,Indore,Corporate,West,Appliances,Air Purifier,1,12000,7000,0,12000,5000
+ORD0215,2023-06-21,C006,Ananya Roy,Kolkata,Corporate,East,Appliances,Table Fan,3,1800,900,0,5400,2700
+ORD0216,2023-02-23,C011,Siddharth Das,Bhopal,Retail,East,Office Supplies,Sticky Notes,1,200,80,0.15,170.0,102.0
+ORD0217,2022-12-04,C005,Vikram Singh,Jaipur,Corporate,South,Electronics,Tablet 10,7,15000,9000,0,105000,42000
+ORD0218,2022-03-25,C011,Siddharth Das,Bhopal,Retail,West,Appliances,Air Purifier,6,12000,7000,0,72000,30000
+ORD0219,2023-09-02,C011,Siddharth Das,Bhopal,Retail,East,Electronics,Smartphone X,9,22000,12000,0.05,188100.0,85500.0
+ORD0220,2023-11-18,C006,Ananya Roy,Kolkata,Corporate,North,Appliances,Microwave 20L,7,8000,4500,0.1,50400.0,22050.0
+ORD0221,2022-11-13,C004,Sneha Patel,Ahmedabad,Retail,South,Furniture,Standing Desk,6,12000,7000,0.05,68400.0,28500.0
+ORD0222,2022-06-08,C013,Rahul Tiwari,Nagpur,SME,North,Electronics,Smartphone X,2,22000,12000,0.1,39600.0,18000.0
+ORD0223,2022-12-11,C003,Rohan Gupta,Bangalore,Retail,South,Appliances,Air Purifier,10,12000,7000,0.05,114000.0,47500.0
+ORD0224,2023-12-11,C007,Arjun Nair,Chennai,SME,East,Appliances,Air Purifier,8,12000,7000,0,96000,40000
+ORD0225,2022-09-01,C013,Rahul Tiwari,Nagpur,Retail,West,Clothing,Sports Tshirt,5,800,300,0.15,3400.0,2125.0
+ORD0226,2023-07-01,C006,Ananya Roy,Kolkata,Corporate,West,Furniture,Bookshelf,8,4000,2000,0,32000,16000
+ORD0227,2022-10-16,C003,Rohan Gupta,Bangalore,SME,South,Clothing,Sports Tshirt,9,800,300,0.05,6840.0,4275.0
+ORD0228,2022-05-22,C009,Mohit Verma,Pune,SME,North,Office Supplies,A4 Paper Ream,8,350,150,0,2800,1600
+ORD0229,2023-06-13,C005,Vikram Singh,Jaipur,SME,West,Electronics,Smartphone X,2,22000,12000,0,44000,20000
+ORD0230,2022-05-31,C015,Amit Kumar,Patna,Retail,East,Clothing,Men's Formal Shirt,4,1200,500,0.05,4560.0,2660.0
+ORD0231,2023-03-01,C004,Sneha Patel,Ahmedabad,Retail,West,Electronics,Smart Watch,9,8000,4500,0,72000,31500
+ORD0232,2023-01-19,C014,Neha Bhatia,Chandigarh,Retail,East,Furniture,Office Chair,6,6500,3200,0,39000,19800
+ORD0233,2022-05-21,C014,Neha Bhatia,Chandigarh,SME,South,Electronics,Smartphone X,8,22000,12000,0.15,149600.0,68000.0
+ORD0234,2023-04-26,C001,Aarav Sharma,Delhi,Retail,East,Clothing,Sports Tshirt,1,800,300,0,800,500
+ORD0235,2022-06-03,C002,Priya Mehta,Mumbai,Retail,East,Appliances,Table Fan,9,1800,900,0.05,15390.0,7695.0
+ORD0236,2022-11-05,C011,Siddharth Das,Bhopal,Retail,West,Electronics,Laptop Pro 15,4,45000,28000,0.05,171000.0,64600.0
+ORD0237,2022-04-24,C011,Siddharth Das,Bhopal,SME,South,Clothing,Sports Tshirt,9,800,300,0,7200,4500
+ORD0238,2022-05-28,C006,Ananya Roy,Kolkata,SME,South,Office Supplies,Whiteboard,1,2500,1200,0.1,2250.0,1170.0
+ORD0239,2023-03-03,C002,Priya Mehta,Mumbai,Corporate,North,Furniture,Office Chair,9,6500,3200,0,58500,29700
+ORD0240,2023-04-27,C012,Pooja Saxena,Indore,Corporate,North,Electronics,Smart Watch,6,8000,4500,0,48000,21000
+ORD0241,2022-03-11,C012,Pooja Saxena,Indore,Retail,East,Office Supplies,Stapler Set,2,600,250,0.1,1080.0,630.0
+ORD0242,2022-02-15,C003,Rohan Gupta,Bangalore,SME,West,Office Supplies,Sticky Notes,6,200,80,0.15,1020.0,612.0
+ORD0243,2023-05-06,C013,Rahul Tiwari,Nagpur,Retail,West,Furniture,Standing Desk,2,12000,7000,0.15,20400.0,8500.0
+ORD0244,2022-10-28,C006,Ananya Roy,Kolkata,SME,East,Furniture,Office Chair,4,6500,3200,0,26000,13200
+ORD0245,2023-02-12,C013,Rahul Tiwari,Nagpur,Corporate,South,Appliances,Room Heater,5,3000,1500,0,15000,7500
+ORD0246,2023-01-01,C013,Rahul Tiwari,Nagpur,Corporate,East,Electronics,Smartphone X,5,22000,12000,0,110000,50000
+ORD0247,2023-02-14,C008,Kavya Iyer,Hyderabad,Corporate,West,Clothing,Jacket Winter,6,3500,1500,0,21000,12000
+ORD0248,2023-06-16,C007,Arjun Nair,Chennai,SME,South,Office Supplies,A4 Paper Ream,7,350,150,0,2450,1400
+ORD0249,2022-10-28,C011,Siddharth Das,Bhopal,Corporate,East,Office Supplies,A4 Paper Ream,2,350,150,0,700,400
+ORD0250,2023-04-02,C008,Kavya Iyer,Hyderabad,Corporate,East,Appliances,Room Heater,3,3000,1500,0.15,7650.0,3825.0
+ORD0251,2022-02-13,C011,Siddharth Das,Bhopal,Retail,North,Office Supplies,Sticky Notes,7,200,80,0,1400,840
+ORD0252,2023-11-19,C011,Siddharth Das,Bhopal,Retail,South,Clothing,Denim Jeans,9,1800,750,0.15,13770.0,8032.5
+ORD0253,2022-05-27,C002,Priya Mehta,Mumbai,SME,South,Appliances,Room Heater,1,3000,1500,0,3000,1500
+ORD0254,2023-01-11,C010,Ritu Joshi,Lucknow,SME,South,Office Supplies,Whiteboard,10,2500,1200,0,25000,13000
+ORD0255,2023-04-06,C010,Ritu Joshi,Lucknow,SME,South,Office Supplies,Pen Box 50,8,300,100,0,2400,1600
+ORD0256,2023-01-11,C002,Priya Mehta,Mumbai,SME,North,Clothing,Denim Jeans,5,1800,750,0,9000,5250
+ORD0257,2022-07-10,C002,Priya Mehta,Mumbai,Corporate,East,Clothing,Sports Tshirt,7,800,300,0.1,5040.0,3150.0
+ORD0258,2023-12-22,C012,Pooja Saxena,Indore,Retail,West,Clothing,Women's Kurta,10,900,380,0,9000,5200
+ORD0259,2022-05-06,C015,Amit Kumar,Patna,Retail,West,Furniture,Office Chair,8,6500,3200,0,52000,26400
+ORD0260,2023-11-30,C009,Mohit Verma,Pune,Corporate,East,Office Supplies,Pen Box 50,2,300,100,0.1,540.0,360.0
+ORD0261,2022-06-11,C002,Priya Mehta,Mumbai,Retail,South,Furniture,Bookshelf,9,4000,2000,0,36000,18000
+ORD0262,2022-08-31,C010,Ritu Joshi,Lucknow,Corporate,East,Clothing,Men's Formal Shirt,6,1200,500,0.1,6480.0,3780.0
+ORD0263,2023-07-19,C005,Vikram Singh,Jaipur,SME,West,Furniture,Study Table,2,5500,3000,0,11000,5000
+ORD0264,2023-05-06,C002,Priya Mehta,Mumbai,Corporate,South,Appliances,Room Heater,7,3000,1500,0.1,18900.0,9450.0
+ORD0265,2023-10-20,C009,Mohit Verma,Pune,Retail,East,Electronics,Smart Watch,8,8000,4500,0.15,54400.0,23800.0
+ORD0266,2023-07-19,C009,Mohit Verma,Pune,Retail,North,Appliances,Air Purifier,3,12000,7000,0.05,34200.0,14250.0
+ORD0267,2023-06-15,C006,Ananya Roy,Kolkata,Corporate,South,Furniture,Bookshelf,3,4000,2000,0,12000,6000
+ORD0268,2023-06-16,C011,Siddharth Das,Bhopal,Retail,East,Office Supplies,A4 Paper Ream,5,350,150,0,1750,1000
+ORD0269,2023-10-03,C009,Mohit Verma,Pune,SME,South,Office Supplies,Sticky Notes,9,200,80,0,1800,1080
+ORD0270,2023-08-18,C015,Amit Kumar,Patna,SME,East,Furniture,Standing Desk,10,12000,7000,0.15,102000.0,42500.0
+ORD0271,2022-02-12,C013,Rahul Tiwari,Nagpur,SME,East,Electronics,Laptop Pro 15,1,45000,28000,0.15,38250.0,14450.0
+ORD0272,2022-08-04,C001,Aarav Sharma,Delhi,SME,West,Appliances,Room Heater,10,3000,1500,0.15,25500.0,12750.0
+ORD0273,2023-07-13,C013,Rahul Tiwari,Nagpur,Corporate,West,Office Supplies,Pen Box 50,8,300,100,0,2400,1600
+ORD0274,2023-04-10,C007,Arjun Nair,Chennai,Corporate,West,Electronics,Laptop Pro 15,3,45000,28000,0.05,128250.0,48450.0
+ORD0275,2022-07-28,C014,Neha Bhatia,Chandigarh,SME,East,Office Supplies,Sticky Notes,3,200,80,0,600,360
+ORD0276,2022-12-20,C009,Mohit Verma,Pune,Corporate,North,Clothing,Women's Kurta,6,900,380,0.1,4860.0,2808.0
+ORD0277,2022-09-05,C004,Sneha Patel,Ahmedabad,Retail,South,Clothing,Men's Formal Shirt,5,1200,500,0.05,5700.0,3325.0
+ORD0278,2022-02-21,C004,Sneha Patel,Ahmedabad,Corporate,South,Office Supplies,Whiteboard,10,2500,1200,0.05,23750.0,12350.0
+ORD0279,2023-08-15,C009,Mohit Verma,Pune,Corporate,West,Office Supplies,Stapler Set,3,600,250,0.05,1710.0,997.5
+ORD0280,2022-11-12,C009,Mohit Verma,Pune,Retail,West,Clothing,Men's Formal Shirt,2,1200,500,0.05,2280.0,1330.0
+ORD0281,2022-08-09,C005,Vikram Singh,Jaipur,SME,West,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0282,2023-11-01,C014,Neha Bhatia,Chandigarh,Corporate,North,Clothing,Denim Jeans,9,1800,750,0,16200,9450
+ORD0283,2022-05-18,C001,Aarav Sharma,Delhi,Retail,West,Office Supplies,Pen Box 50,7,300,100,0,2100,1400
+ORD0284,2023-08-07,C005,Vikram Singh,Jaipur,Corporate,North,Appliances,Air Purifier,6,12000,7000,0.1,64800.0,27000.0
+ORD0285,2023-06-01,C011,Siddharth Das,Bhopal,Retail,North,Clothing,Sports Tshirt,5,800,300,0.1,3600.0,2250.0
+ORD0286,2022-04-10,C006,Ananya Roy,Kolkata,Retail,South,Clothing,Denim Jeans,6,1800,750,0.1,9720.0,5670.0
+ORD0287,2023-09-09,C001,Aarav Sharma,Delhi,Retail,North,Appliances,Room Heater,9,3000,1500,0,27000,13500
+ORD0288,2022-12-08,C010,Ritu Joshi,Lucknow,Corporate,South,Clothing,Sports Tshirt,8,800,300,0,6400,4000
+ORD0289,2023-09-20,C012,Pooja Saxena,Indore,SME,East,Office Supplies,Stapler Set,7,600,250,0.1,3780.0,2205.0
+ORD0290,2022-12-11,C012,Pooja Saxena,Indore,Corporate,East,Appliances,Table Fan,9,1800,900,0.05,15390.0,7695.0
+ORD0291,2022-01-18,C010,Ritu Joshi,Lucknow,SME,East,Office Supplies,Pen Box 50,2,300,100,0.05,570.0,380.0
+ORD0292,2023-12-06,C011,Siddharth Das,Bhopal,SME,South,Electronics,Tablet 10,8,15000,9000,0,120000,48000
+ORD0293,2022-02-22,C011,Siddharth Das,Bhopal,Retail,West,Appliances,Room Heater,3,3000,1500,0.1,8100.0,4050.0
+ORD0294,2023-11-29,C002,Priya Mehta,Mumbai,Retail,South,Furniture,Office Chair,10,6500,3200,0.15,55250.0,28050.0
+ORD0295,2023-03-28,C012,Pooja Saxena,Indore,Corporate,South,Office Supplies,Whiteboard,3,2500,1200,0.05,7125.0,3705.0
+ORD0296,2023-05-29,C003,Rohan Gupta,Bangalore,SME,South,Appliances,Room Heater,1,3000,1500,0.15,2550.0,1275.0
+ORD0297,2022-11-29,C003,Rohan Gupta,Bangalore,SME,West,Clothing,Sports Tshirt,7,800,300,0,5600,3500
+ORD0298,2022-12-17,C008,Kavya Iyer,Hyderabad,Retail,South,Appliances,Electric Kettle,5,1500,700,0.1,6750.0,3600.0
+ORD0299,2022-10-13,C013,Rahul Tiwari,Nagpur,SME,East,Appliances,Electric Kettle,4,1500,700,0,6000,3200
+ORD0300,2022-08-01,C009,Mohit Verma,Pune,Corporate,East,Clothing,Denim Jeans,8,1800,750,0,14400,8400
+ORD0301,2022-05-05,C014,Neha Bhatia,Chandigarh,Retail,East,Appliances,Table Fan,7,1800,900,0.05,11970.0,5985.0
+ORD0302,2022-10-25,C015,Amit Kumar,Patna,SME,West,Electronics,Smartphone X,2,22000,12000,0,44000,20000
+ORD0303,2022-09-20,C005,Vikram Singh,Jaipur,Retail,East,Clothing,Women's Kurta,4,900,380,0.1,3240.0,1872.0
+ORD0304,2022-04-22,C001,Aarav Sharma,Delhi,SME,South,Appliances,Table Fan,4,1800,900,0,7200,3600
+ORD0305,2022-08-27,C012,Pooja Saxena,Indore,Retail,West,Electronics,Laptop Pro 15,7,45000,28000,0,315000,119000
+ORD0306,2023-11-29,C007,Arjun Nair,Chennai,Corporate,West,Furniture,Office Chair,9,6500,3200,0,58500,29700
+ORD0307,2023-10-29,C011,Siddharth Das,Bhopal,Retail,North,Furniture,Bookshelf,6,4000,2000,0,24000,12000
+ORD0308,2023-10-30,C012,Pooja Saxena,Indore,Retail,North,Appliances,Air Purifier,9,12000,7000,0.15,91800.0,38250.0
+ORD0309,2023-03-04,C003,Rohan Gupta,Bangalore,Retail,East,Furniture,Office Chair,7,6500,3200,0.05,43225.0,21945.0
+ORD0310,2022-01-10,C015,Amit Kumar,Patna,Corporate,East,Office Supplies,Sticky Notes,10,200,80,0,2000,1200
+ORD0311,2023-04-11,C014,Neha Bhatia,Chandigarh,Corporate,West,Appliances,Table Fan,8,1800,900,0,14400,7200
+ORD0312,2022-07-17,C008,Kavya Iyer,Hyderabad,SME,East,Electronics,Smartphone X,3,22000,12000,0.15,56100.0,25500.0
+ORD0313,2022-07-10,C011,Siddharth Das,Bhopal,Retail,South,Electronics,Smartphone X,5,22000,12000,0.1,99000.0,45000.0
+ORD0314,2023-09-18,C002,Priya Mehta,Mumbai,SME,West,Clothing,Jacket Winter,9,3500,1500,0,31500,18000
+ORD0315,2022-04-08,C015,Amit Kumar,Patna,Retail,South,Furniture,Standing Desk,8,12000,7000,0,96000,40000
+ORD0316,2022-09-25,C006,Ananya Roy,Kolkata,SME,East,Clothing,Women's Kurta,8,900,380,0,7200,4160
+ORD0317,2023-08-10,C004,Sneha Patel,Ahmedabad,SME,North,Electronics,Smartphone X,6,22000,12000,0.15,112200.0,51000.0
+ORD0318,2022-05-02,C011,Siddharth Das,Bhopal,SME,East,Clothing,Denim Jeans,3,1800,750,0.05,5130.0,2992.5
+ORD0319,2022-05-01,C004,Sneha Patel,Ahmedabad,Corporate,South,Office Supplies,Pen Box 50,10,300,100,0,3000,2000
+ORD0320,2022-06-06,C012,Pooja Saxena,Indore,SME,West,Clothing,Sports Tshirt,6,800,300,0.05,4560.0,2850.0
+ORD0321,2023-11-12,C009,Mohit Verma,Pune,SME,West,Furniture,Standing Desk,10,12000,7000,0,120000,50000
+ORD0322,2023-12-22,C001,Aarav Sharma,Delhi,SME,South,Office Supplies,A4 Paper Ream,10,350,150,0,3500,2000
+ORD0323,2023-07-04,C008,Kavya Iyer,Hyderabad,SME,North,Furniture,Standing Desk,6,12000,7000,0.1,64800.0,27000.0
+ORD0324,2022-07-30,C008,Kavya Iyer,Hyderabad,Corporate,North,Appliances,Room Heater,2,3000,1500,0.1,5400.0,2700.0
+ORD0325,2022-05-16,C001,Aarav Sharma,Delhi,SME,West,Appliances,Room Heater,8,3000,1500,0.1,21600.0,10800.0
+ORD0326,2022-11-12,C012,Pooja Saxena,Indore,SME,South,Electronics,Smart Watch,5,8000,4500,0,40000,17500
+ORD0327,2022-03-16,C002,Priya Mehta,Mumbai,Retail,North,Electronics,Smart Watch,6,8000,4500,0.15,40800.0,17850.0
+ORD0328,2023-04-29,C013,Rahul Tiwari,Nagpur,SME,South,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0329,2023-10-24,C014,Neha Bhatia,Chandigarh,Corporate,West,Clothing,Denim Jeans,7,1800,750,0.05,11970.0,6982.5
+ORD0330,2022-03-24,C003,Rohan Gupta,Bangalore,SME,West,Appliances,Air Purifier,6,12000,7000,0,72000,30000
+ORD0331,2022-05-11,C008,Kavya Iyer,Hyderabad,SME,West,Furniture,Office Chair,1,6500,3200,0,6500,3300
+ORD0332,2023-01-24,C003,Rohan Gupta,Bangalore,Retail,East,Furniture,Standing Desk,8,12000,7000,0,96000,40000
+ORD0333,2022-04-26,C004,Sneha Patel,Ahmedabad,Retail,South,Electronics,Smart Watch,10,8000,4500,0,80000,35000
+ORD0334,2022-04-14,C011,Siddharth Das,Bhopal,Retail,North,Appliances,Microwave 20L,8,8000,4500,0.1,57600.0,25200.0
+ORD0335,2022-02-15,C004,Sneha Patel,Ahmedabad,Retail,North,Clothing,Jacket Winter,4,3500,1500,0.1,12600.0,7200.0
+ORD0336,2023-05-31,C010,Ritu Joshi,Lucknow,Retail,East,Office Supplies,Stapler Set,10,600,250,0,6000,3500
+ORD0337,2022-11-06,C005,Vikram Singh,Jaipur,Retail,East,Furniture,Study Table,4,5500,3000,0.05,20900.0,9500.0
+ORD0338,2023-07-25,C008,Kavya Iyer,Hyderabad,Corporate,North,Appliances,Air Purifier,7,12000,7000,0.1,75600.0,31500.0
+ORD0339,2023-10-21,C007,Arjun Nair,Chennai,Retail,West,Clothing,Sports Tshirt,6,800,300,0.15,4080.0,2550.0
+ORD0340,2022-11-04,C004,Sneha Patel,Ahmedabad,Corporate,South,Clothing,Women's Kurta,9,900,380,0.05,7695.0,4446.0
+ORD0341,2023-12-26,C007,Arjun Nair,Chennai,SME,West,Furniture,Sofa 3-Seater,1,25000,14000,0.1,22500.0,9900.0
+ORD0342,2023-06-27,C004,Sneha Patel,Ahmedabad,SME,East,Furniture,Sofa 3-Seater,4,25000,14000,0,100000,44000
+ORD0343,2022-03-22,C012,Pooja Saxena,Indore,Retail,South,Clothing,Denim Jeans,2,1800,750,0.1,3240.0,1890.0
+ORD0344,2022-10-02,C014,Neha Bhatia,Chandigarh,Retail,North,Clothing,Sports Tshirt,10,800,300,0,8000,5000
+ORD0345,2023-08-25,C014,Neha Bhatia,Chandigarh,Corporate,East,Appliances,Air Purifier,8,12000,7000,0,96000,40000
+ORD0346,2022-01-16,C013,Rahul Tiwari,Nagpur,Retail,West,Furniture,Standing Desk,2,12000,7000,0.15,20400.0,8500.0
+ORD0347,2023-12-14,C009,Mohit Verma,Pune,Corporate,East,Appliances,Air Purifier,7,12000,7000,0,84000,35000
+ORD0348,2023-01-25,C005,Vikram Singh,Jaipur,SME,East,Clothing,Sports Tshirt,6,800,300,0,4800,3000
+ORD0349,2023-05-25,C015,Amit Kumar,Patna,Corporate,South,Clothing,Men's Formal Shirt,8,1200,500,0,9600,5600
+ORD0350,2022-11-17,C012,Pooja Saxena,Indore,Retail,South,Clothing,Men's Formal Shirt,10,1200,500,0,12000,7000
+ORD0351,2022-09-25,C007,Arjun Nair,Chennai,Retail,East,Appliances,Table Fan,10,1800,900,0.15,15300.0,7650.0
+ORD0352,2022-07-20,C014,Neha Bhatia,Chandigarh,Corporate,South,Office Supplies,Stapler Set,7,600,250,0.1,3780.0,2205.0
+ORD0353,2023-07-18,C011,Siddharth Das,Bhopal,Corporate,West,Office Supplies,Pen Box 50,8,300,100,0.15,2040.0,1360.0
+ORD0354,2022-06-22,C009,Mohit Verma,Pune,Retail,West,Office Supplies,Stapler Set,3,600,250,0.15,1530.0,892.5
+ORD0355,2023-07-10,C014,Neha Bhatia,Chandigarh,Retail,North,Electronics,Tablet 10,1,15000,9000,0,15000,6000
+ORD0356,2023-02-27,C003,Rohan Gupta,Bangalore,Retail,North,Furniture,Standing Desk,2,12000,7000,0.15,20400.0,8500.0
+ORD0357,2023-06-02,C011,Siddharth Das,Bhopal,SME,West,Clothing,Denim Jeans,1,1800,750,0.1,1620.0,945.0
+ORD0358,2023-05-15,C007,Arjun Nair,Chennai,Retail,North,Electronics,Laptop Pro 15,9,45000,28000,0.1,364500.0,137700.0
+ORD0359,2023-06-27,C009,Mohit Verma,Pune,Retail,West,Office Supplies,Sticky Notes,5,200,80,0,1000,600
+ORD0360,2022-04-20,C004,Sneha Patel,Ahmedabad,Corporate,East,Electronics,Tablet 10,3,15000,9000,0,45000,18000
+ORD0361,2022-10-01,C008,Kavya Iyer,Hyderabad,SME,South,Clothing,Men's Formal Shirt,6,1200,500,0.05,6840.0,3990.0
+ORD0362,2022-08-20,C007,Arjun Nair,Chennai,Corporate,West,Office Supplies,A4 Paper Ream,1,350,150,0,350,200
+ORD0363,2023-07-20,C003,Rohan Gupta,Bangalore,Corporate,North,Clothing,Men's Formal Shirt,1,1200,500,0.15,1020.0,595.0
+ORD0364,2023-03-21,C015,Amit Kumar,Patna,Retail,North,Office Supplies,Sticky Notes,2,200,80,0.1,360.0,216.0
+ORD0365,2022-08-05,C015,Amit Kumar,Patna,SME,North,Appliances,Room Heater,5,3000,1500,0,15000,7500
+ORD0366,2022-10-15,C015,Amit Kumar,Patna,Retail,East,Appliances,Table Fan,1,1800,900,0,1800,900
+ORD0367,2022-08-01,C005,Vikram Singh,Jaipur,SME,South,Appliances,Air Purifier,7,12000,7000,0,84000,35000
+ORD0368,2022-09-04,C007,Arjun Nair,Chennai,SME,South,Appliances,Room Heater,9,3000,1500,0,27000,13500
+ORD0369,2022-03-22,C007,Arjun Nair,Chennai,Retail,South,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0370,2022-12-15,C013,Rahul Tiwari,Nagpur,Retail,East,Appliances,Table Fan,10,1800,900,0.05,17100.0,8550.0
+ORD0371,2023-10-12,C006,Ananya Roy,Kolkata,Corporate,West,Office Supplies,Whiteboard,8,2500,1200,0,20000,10400
+ORD0372,2022-07-10,C005,Vikram Singh,Jaipur,SME,South,Appliances,Room Heater,2,3000,1500,0.1,5400.0,2700.0
+ORD0373,2022-03-17,C012,Pooja Saxena,Indore,SME,South,Electronics,Smartphone X,3,22000,12000,0.05,62700.0,28500.0
+ORD0374,2023-02-03,C001,Aarav Sharma,Delhi,Corporate,East,Office Supplies,Pen Box 50,2,300,100,0,600,400
+ORD0375,2023-01-04,C003,Rohan Gupta,Bangalore,Corporate,West,Office Supplies,A4 Paper Ream,3,350,150,0,1050,600
+ORD0376,2023-07-25,C001,Aarav Sharma,Delhi,Corporate,North,Appliances,Table Fan,7,1800,900,0,12600,6300
+ORD0377,2023-07-22,C014,Neha Bhatia,Chandigarh,Retail,West,Electronics,Tablet 10,10,15000,9000,0,150000,60000
+ORD0378,2022-10-26,C015,Amit Kumar,Patna,SME,South,Clothing,Jacket Winter,2,3500,1500,0.15,5950.0,3400.0
+ORD0379,2023-06-18,C005,Vikram Singh,Jaipur,Corporate,East,Furniture,Sofa 3-Seater,3,25000,14000,0,75000,33000
+ORD0380,2023-05-20,C005,Vikram Singh,Jaipur,Corporate,West,Furniture,Office Chair,3,6500,3200,0.05,18525.0,9405.0
+ORD0381,2023-05-11,C012,Pooja Saxena,Indore,SME,West,Electronics,Smartphone X,5,22000,12000,0,110000,50000
+ORD0382,2023-09-24,C005,Vikram Singh,Jaipur,Corporate,North,Furniture,Sofa 3-Seater,2,25000,14000,0,50000,22000
+ORD0383,2022-12-07,C006,Ananya Roy,Kolkata,SME,West,Appliances,Room Heater,6,3000,1500,0.05,17100.0,8550.0
+ORD0384,2023-09-01,C012,Pooja Saxena,Indore,Corporate,South,Furniture,Bookshelf,6,4000,2000,0.1,21600.0,10800.0
+ORD0385,2022-11-18,C012,Pooja Saxena,Indore,SME,West,Furniture,Sofa 3-Seater,6,25000,14000,0,150000,66000
+ORD0386,2022-09-06,C006,Ananya Roy,Kolkata,SME,North,Office Supplies,Whiteboard,5,2500,1200,0.05,11875.0,6175.0
+ORD0387,2022-07-24,C013,Rahul Tiwari,Nagpur,SME,North,Appliances,Table Fan,3,1800,900,0.15,4590.0,2295.0
+ORD0388,2023-04-18,C002,Priya Mehta,Mumbai,SME,West,Furniture,Sofa 3-Seater,5,25000,14000,0.15,106250.0,46750.0
+ORD0389,2023-05-27,C011,Siddharth Das,Bhopal,SME,South,Furniture,Bookshelf,4,4000,2000,0,16000,8000
+ORD0390,2023-03-10,C008,Kavya Iyer,Hyderabad,SME,West,Clothing,Men's Formal Shirt,8,1200,500,0.1,8640.0,5040.0
+ORD0391,2023-06-03,C012,Pooja Saxena,Indore,Retail,North,Clothing,Sports Tshirt,1,800,300,0,800,500
+ORD0392,2022-09-12,C010,Ritu Joshi,Lucknow,Corporate,West,Office Supplies,Stapler Set,10,600,250,0,6000,3500
+ORD0393,2023-03-17,C004,Sneha Patel,Ahmedabad,Corporate,South,Electronics,Laptop Pro 15,2,45000,28000,0,90000,34000
+ORD0394,2023-01-19,C009,Mohit Verma,Pune,Corporate,South,Clothing,Jacket Winter,10,3500,1500,0.15,29750.0,17000.0
+ORD0395,2022-01-26,C015,Amit Kumar,Patna,Retail,North,Clothing,Men's Formal Shirt,5,1200,500,0.05,5700.0,3325.0
+ORD0396,2022-05-26,C013,Rahul Tiwari,Nagpur,SME,South,Office Supplies,Pen Box 50,6,300,100,0.05,1710.0,1140.0
+ORD0397,2023-05-10,C012,Pooja Saxena,Indore,Corporate,West,Office Supplies,Whiteboard,2,2500,1200,0.05,4750.0,2470.0
+ORD0398,2022-03-10,C014,Neha Bhatia,Chandigarh,SME,East,Office Supplies,A4 Paper Ream,2,350,150,0,700,400
+ORD0399,2022-04-22,C009,Mohit Verma,Pune,Corporate,South,Furniture,Standing Desk,9,12000,7000,0,108000,45000
+ORD0400,2023-07-28,C011,Siddharth Das,Bhopal,Retail,South,Clothing,Jacket Winter,4,3500,1500,0.05,13300.0,7600.0
+ORD0401,2023-10-18,C010,Ritu Joshi,Lucknow,Corporate,South,Clothing,Jacket Winter,1,3500,1500,0.15,2975.0,1700.0
+ORD0402,2023-08-30,C004,Sneha Patel,Ahmedabad,Corporate,South,Clothing,Jacket Winter,1,3500,1500,0.15,2975.0,1700.0
+ORD0403,2023-12-22,C003,Rohan Gupta,Bangalore,Corporate,East,Electronics,Tablet 10,2,15000,9000,0.1,27000.0,10800.0
+ORD0404,2022-07-21,C014,Neha Bhatia,Chandigarh,SME,West,Clothing,Men's Formal Shirt,5,1200,500,0.15,5100.0,2975.0
+ORD0405,2023-10-17,C007,Arjun Nair,Chennai,Corporate,North,Office Supplies,Sticky Notes,7,200,80,0.1,1260.0,756.0
+ORD0406,2022-12-27,C012,Pooja Saxena,Indore,SME,East,Clothing,Sports Tshirt,3,800,300,0.15,2040.0,1275.0
+ORD0407,2023-08-28,C004,Sneha Patel,Ahmedabad,Retail,East,Electronics,Wireless Earbuds,6,3500,1200,0,21000,13800
+ORD0408,2022-07-07,C007,Arjun Nair,Chennai,SME,South,Office Supplies,Stapler Set,9,600,250,0.05,5130.0,2992.5
+ORD0409,2023-01-28,C009,Mohit Verma,Pune,SME,South,Clothing,Women's Kurta,8,900,380,0.15,6120.0,3536.0
+ORD0410,2022-06-20,C006,Ananya Roy,Kolkata,SME,West,Clothing,Denim Jeans,3,1800,750,0,5400,3150
+ORD0411,2022-02-24,C004,Sneha Patel,Ahmedabad,SME,West,Office Supplies,A4 Paper Ream,8,350,150,0,2800,1600
+ORD0412,2023-06-02,C012,Pooja Saxena,Indore,Corporate,West,Clothing,Jacket Winter,8,3500,1500,0.05,26600.0,15200.0
+ORD0413,2022-06-21,C005,Vikram Singh,Jaipur,Corporate,North,Electronics,Tablet 10,1,15000,9000,0,15000,6000
+ORD0414,2022-08-19,C010,Ritu Joshi,Lucknow,SME,West,Appliances,Electric Kettle,3,1500,700,0.05,4275.0,2280.0
+ORD0415,2023-06-08,C013,Rahul Tiwari,Nagpur,SME,East,Electronics,Tablet 10,2,15000,9000,0,30000,12000
+ORD0416,2022-02-12,C002,Priya Mehta,Mumbai,Corporate,South,Clothing,Sports Tshirt,4,800,300,0.05,3040.0,1900.0
+ORD0417,2022-02-03,C008,Kavya Iyer,Hyderabad,Retail,North,Clothing,Denim Jeans,6,1800,750,0,10800,6300
+ORD0418,2022-08-03,C007,Arjun Nair,Chennai,SME,South,Appliances,Electric Kettle,10,1500,700,0.15,12750.0,6800.0
+ORD0419,2022-05-23,C006,Ananya Roy,Kolkata,SME,East,Furniture,Standing Desk,1,12000,7000,0.1,10800.0,4500.0
+ORD0420,2023-07-06,C010,Ritu Joshi,Lucknow,SME,East,Furniture,Bookshelf,5,4000,2000,0,20000,10000
+ORD0421,2023-11-27,C005,Vikram Singh,Jaipur,SME,South,Electronics,Wireless Earbuds,7,3500,1200,0,24500,16100
+ORD0422,2022-05-16,C013,Rahul Tiwari,Nagpur,Corporate,West,Furniture,Standing Desk,6,12000,7000,0,72000,30000
+ORD0423,2022-05-26,C008,Kavya Iyer,Hyderabad,SME,North,Appliances,Electric Kettle,7,1500,700,0.05,9975.0,5320.0
+ORD0424,2022-04-06,C015,Amit Kumar,Patna,Corporate,East,Clothing,Sports Tshirt,5,800,300,0.15,3400.0,2125.0
+ORD0425,2023-05-15,C002,Priya Mehta,Mumbai,SME,West,Office Supplies,Sticky Notes,1,200,80,0.15,170.0,102.0
+ORD0426,2023-11-12,C004,Sneha Patel,Ahmedabad,Retail,West,Office Supplies,A4 Paper Ream,9,350,150,0.05,2992.5,1710.0
+ORD0427,2023-05-22,C009,Mohit Verma,Pune,SME,South,Office Supplies,Pen Box 50,5,300,100,0,1500,1000
+ORD0428,2023-05-12,C011,Siddharth Das,Bhopal,Retail,West,Office Supplies,A4 Paper Ream,1,350,150,0,350,200
+ORD0429,2022-05-08,C007,Arjun Nair,Chennai,SME,South,Furniture,Sofa 3-Seater,8,25000,14000,0,200000,88000
+ORD0430,2022-05-16,C011,Siddharth Das,Bhopal,Corporate,East,Office Supplies,Stapler Set,5,600,250,0,3000,1750
+ORD0431,2022-03-26,C011,Siddharth Das,Bhopal,SME,East,Office Supplies,Stapler Set,1,600,250,0.05,570.0,332.5
+ORD0432,2023-12-18,C002,Priya Mehta,Mumbai,Retail,North,Furniture,Sofa 3-Seater,2,25000,14000,0.15,42500.0,18700.0
+ORD0433,2023-05-04,C009,Mohit Verma,Pune,Retail,West,Electronics,Wireless Earbuds,10,3500,1200,0,35000,23000
+ORD0434,2022-01-09,C003,Rohan Gupta,Bangalore,Retail,West,Office Supplies,A4 Paper Ream,7,350,150,0.15,2082.5,1190.0
+ORD0435,2022-08-23,C006,Ananya Roy,Kolkata,Corporate,East,Clothing,Men's Formal Shirt,2,1200,500,0,2400,1400
+ORD0436,2022-05-21,C009,Mohit Verma,Pune,SME,North,Clothing,Women's Kurta,3,900,380,0,2700,1560
+ORD0437,2023-10-28,C004,Sneha Patel,Ahmedabad,Corporate,South,Furniture,Sofa 3-Seater,6,25000,14000,0.15,127500.0,56100.0
+ORD0438,2023-09-23,C003,Rohan Gupta,Bangalore,SME,North,Clothing,Women's Kurta,2,900,380,0,1800,1040
+ORD0439,2023-01-29,C004,Sneha Patel,Ahmedabad,SME,East,Office Supplies,Whiteboard,6,2500,1200,0,15000,7800
+ORD0440,2022-03-28,C012,Pooja Saxena,Indore,SME,East,Furniture,Study Table,10,5500,3000,0.1,49500.0,22500.0
+ORD0441,2022-01-28,C009,Mohit Verma,Pune,SME,South,Office Supplies,Stapler Set,9,600,250,0.1,4860.0,2835.0
+ORD0442,2023-02-06,C007,Arjun Nair,Chennai,Retail,North,Office Supplies,A4 Paper Ream,4,350,150,0.05,1330.0,760.0
+ORD0443,2023-05-27,C006,Ananya Roy,Kolkata,Retail,East,Appliances,Microwave 20L,9,8000,4500,0,72000,31500
+ORD0444,2023-02-01,C011,Siddharth Das,Bhopal,Corporate,South,Appliances,Room Heater,6,3000,1500,0.1,16200.0,8100.0
+ORD0445,2022-03-16,C005,Vikram Singh,Jaipur,Retail,South,Electronics,Tablet 10,2,15000,9000,0,30000,12000
+ORD0446,2022-03-03,C012,Pooja Saxena,Indore,Corporate,West,Clothing,Sports Tshirt,5,800,300,0.15,3400.0,2125.0
+ORD0447,2023-12-20,C010,Ritu Joshi,Lucknow,Corporate,South,Clothing,Men's Formal Shirt,9,1200,500,0.1,9720.0,5670.0
+ORD0448,2022-03-27,C013,Rahul Tiwari,Nagpur,SME,South,Office Supplies,A4 Paper Ream,9,350,150,0,3150,1800
+ORD0449,2022-12-01,C012,Pooja Saxena,Indore,SME,West,Clothing,Sports Tshirt,2,800,300,0,1600,1000
+ORD0450,2022-09-02,C002,Priya Mehta,Mumbai,SME,West,Electronics,Wireless Earbuds,2,3500,1200,0.05,6650.0,4370.0
+ORD0451,2023-09-16,C001,Aarav Sharma,Delhi,SME,South,Electronics,Smartphone X,3,22000,12000,0,66000,30000
+ORD0452,2022-01-12,C009,Mohit Verma,Pune,Retail,East,Furniture,Sofa 3-Seater,6,25000,14000,0.1,135000.0,59400.0
+ORD0453,2023-01-16,C006,Ananya Roy,Kolkata,Corporate,West,Furniture,Bookshelf,2,4000,2000,0,8000,4000
+ORD0454,2023-06-21,C002,Priya Mehta,Mumbai,Corporate,West,Electronics,Smartphone X,10,22000,12000,0.15,187000.0,85000.0
+ORD0455,2023-06-08,C003,Rohan Gupta,Bangalore,Retail,East,Office Supplies,A4 Paper Ream,8,350,150,0.1,2520.0,1440.0
+ORD0456,2022-09-19,C012,Pooja Saxena,Indore,Retail,North,Electronics,Tablet 10,2,15000,9000,0,30000,12000
+ORD0457,2022-01-13,C007,Arjun Nair,Chennai,Retail,South,Furniture,Office Chair,8,6500,3200,0,52000,26400
+ORD0458,2022-02-06,C004,Sneha Patel,Ahmedabad,SME,West,Appliances,Room Heater,4,3000,1500,0,12000,6000
+ORD0459,2022-11-24,C002,Priya Mehta,Mumbai,Retail,North,Office Supplies,A4 Paper Ream,10,350,150,0,3500,2000
+ORD0460,2022-08-17,C015,Amit Kumar,Patna,Corporate,West,Appliances,Microwave 20L,7,8000,4500,0,56000,24500
+ORD0461,2022-11-15,C001,Aarav Sharma,Delhi,Retail,East,Office Supplies,A4 Paper Ream,9,350,150,0.05,2992.5,1710.0
+ORD0462,2022-10-26,C008,Kavya Iyer,Hyderabad,SME,East,Appliances,Electric Kettle,10,1500,700,0,15000,8000
+ORD0463,2023-05-21,C001,Aarav Sharma,Delhi,Retail,West,Furniture,Study Table,4,5500,3000,0,22000,10000
+ORD0464,2022-08-27,C001,Aarav Sharma,Delhi,SME,West,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0465,2022-11-11,C007,Arjun Nair,Chennai,Retail,West,Electronics,Wireless Earbuds,9,3500,1200,0,31500,20700
+ORD0466,2022-05-26,C015,Amit Kumar,Patna,SME,West,Office Supplies,A4 Paper Ream,1,350,150,0,350,200
+ORD0467,2023-01-17,C009,Mohit Verma,Pune,SME,South,Clothing,Men's Formal Shirt,10,1200,500,0,12000,7000
+ORD0468,2023-02-08,C007,Arjun Nair,Chennai,Retail,South,Electronics,Tablet 10,10,15000,9000,0,150000,60000
+ORD0469,2022-10-26,C014,Neha Bhatia,Chandigarh,Corporate,East,Office Supplies,Pen Box 50,7,300,100,0.15,1785.0,1190.0
+ORD0470,2023-04-09,C003,Rohan Gupta,Bangalore,Retail,North,Office Supplies,Stapler Set,2,600,250,0,1200,700
+ORD0471,2022-04-19,C007,Arjun Nair,Chennai,SME,North,Furniture,Sofa 3-Seater,8,25000,14000,0,200000,88000
+ORD0472,2023-01-02,C005,Vikram Singh,Jaipur,Retail,North,Furniture,Sofa 3-Seater,5,25000,14000,0.05,118750.0,52250.0
+ORD0473,2022-06-11,C014,Neha Bhatia,Chandigarh,Retail,East,Office Supplies,Sticky Notes,1,200,80,0,200,120
+ORD0474,2022-04-04,C001,Aarav Sharma,Delhi,Corporate,East,Furniture,Bookshelf,7,4000,2000,0.1,25200.0,12600.0
+ORD0475,2022-06-28,C012,Pooja Saxena,Indore,Retail,South,Electronics,Smart Watch,8,8000,4500,0.1,57600.0,25200.0
+ORD0476,2023-04-19,C001,Aarav Sharma,Delhi,Retail,South,Electronics,Wireless Earbuds,2,3500,1200,0,7000,4600
+ORD0477,2022-07-22,C010,Ritu Joshi,Lucknow,Retail,East,Clothing,Denim Jeans,2,1800,750,0.1,3240.0,1890.0
+ORD0478,2022-01-23,C002,Priya Mehta,Mumbai,Retail,East,Electronics,Wireless Earbuds,8,3500,1200,0,28000,18400
+ORD0479,2022-02-13,C007,Arjun Nair,Chennai,Corporate,West,Clothing,Men's Formal Shirt,3,1200,500,0.1,3240.0,1890.0
+ORD0480,2022-01-31,C004,Sneha Patel,Ahmedabad,Corporate,South,Clothing,Jacket Winter,3,3500,1500,0,10500,6000
+ORD0481,2022-10-14,C010,Ritu Joshi,Lucknow,SME,South,Clothing,Women's Kurta,1,900,380,0.1,810.0,468.0
+ORD0482,2022-10-30,C001,Aarav Sharma,Delhi,Corporate,North,Clothing,Jacket Winter,9,3500,1500,0.05,29925.0,17100.0
+ORD0483,2023-01-28,C015,Amit Kumar,Patna,SME,South,Furniture,Sofa 3-Seater,4,25000,14000,0.15,85000.0,37400.0
+ORD0484,2023-07-11,C009,Mohit Verma,Pune,Corporate,West,Electronics,Smart Watch,6,8000,4500,0.05,45600.0,19950.0
+ORD0485,2023-08-03,C003,Rohan Gupta,Bangalore,Corporate,North,Appliances,Electric Kettle,7,1500,700,0,10500,5600
+ORD0486,2023-09-04,C013,Rahul Tiwari,Nagpur,SME,West,Furniture,Office Chair,5,6500,3200,0,32500,16500
+ORD0487,2023-01-02,C004,Sneha Patel,Ahmedabad,Corporate,South,Appliances,Air Purifier,3,12000,7000,0,36000,15000
+ORD0488,2023-07-01,C006,Ananya Roy,Kolkata,Retail,South,Electronics,Wireless Earbuds,10,3500,1200,0.05,33250.0,21850.0
+ORD0489,2022-08-31,C001,Aarav Sharma,Delhi,SME,East,Appliances,Electric Kettle,6,1500,700,0.1,8100.0,4320.0
+ORD0490,2023-08-01,C009,Mohit Verma,Pune,Retail,East,Furniture,Study Table,4,5500,3000,0.05,20900.0,9500.0
+ORD0491,2023-05-18,C010,Ritu Joshi,Lucknow,Retail,South,Electronics,Laptop Pro 15,1,45000,28000,0,45000,17000
+ORD0492,2023-06-24,C004,Sneha Patel,Ahmedabad,Corporate,South,Clothing,Men's Formal Shirt,6,1200,500,0.1,6480.0,3780.0
+ORD0493,2022-07-01,C010,Ritu Joshi,Lucknow,Retail,South,Office Supplies,A4 Paper Ream,1,350,150,0,350,200
+ORD0494,2023-06-23,C011,Siddharth Das,Bhopal,SME,West,Office Supplies,A4 Paper Ream,6,350,150,0.15,1785.0,1020.0
+ORD0495,2022-04-14,C003,Rohan Gupta,Bangalore,SME,West,Office Supplies,Pen Box 50,6,300,100,0,1800,1200
+ORD0496,2023-05-14,C015,Amit Kumar,Patna,Retail,East,Office Supplies,Stapler Set,9,600,250,0.15,4590.0,2677.5
+ORD0497,2023-11-13,C012,Pooja Saxena,Indore,Retail,East,Appliances,Air Purifier,7,12000,7000,0,84000,35000
+ORD0498,2022-07-01,C001,Aarav Sharma,Delhi,SME,South,Electronics,Tablet 10,7,15000,9000,0.1,94500.0,37800.0
+ORD0499,2022-11-22,C015,Amit Kumar,Patna,Retail,West,Appliances,Air Purifier,10,12000,7000,0,120000,50000
+ORD0500,2022-12-06,C003,Rohan Gupta,Bangalore,SME,North,Electronics,Wireless Earbuds,6,3500,1200,0,21000,13800
+ORD0501,2023-11-18,C004,Sneha Patel,Ahmedabad,SME,South,Office Supplies,Whiteboard,1,2500,1200,0,2500,1300
+ORD0502,2022-03-11,C001,Aarav Sharma,Delhi,Corporate,North,Office Supplies,Pen Box 50,2,300,100,0.15,510.0,340.0
+ORD0503,2023-03-25,C015,Amit Kumar,Patna,Corporate,West,Clothing,Women's Kurta,7,900,380,0.05,5985.0,3458.0
+ORD0504,2023-07-14,C011,Siddharth Das,Bhopal,Retail,South,Clothing,Men's Formal Shirt,8,1200,500,0.1,8640.0,5040.0
+ORD0505,2023-04-08,C006,Ananya Roy,Kolkata,Retail,East,Electronics,Laptop Pro 15,5,45000,28000,0,225000,85000
+ORD0506,2022-03-17,C012,Pooja Saxena,Indore,SME,North,Office Supplies,Stapler Set,7,600,250,0,4200,2450
+ORD0507,2022-04-06,C012,Pooja Saxena,Indore,Corporate,North,Office Supplies,Sticky Notes,10,200,80,0.05,1900.0,1140.0
+ORD0508,2023-11-01,C001,Aarav Sharma,Delhi,Corporate,North,Furniture,Study Table,7,5500,3000,0,38500,17500
+ORD0509,2022-07-30,C015,Amit Kumar,Patna,SME,East,Furniture,Sofa 3-Seater,9,25000,14000,0.15,191250.0,84150.0
+ORD0510,2022-10-16,C007,Arjun Nair,Chennai,Retail,West,Office Supplies,Stapler Set,2,600,250,0,1200,700
+ORD0511,2022-02-25,C005,Vikram Singh,Jaipur,Retail,West,Office Supplies,A4 Paper Ream,7,350,150,0,2450,1400
+ORD0512,2022-04-10,C005,Vikram Singh,Jaipur,Corporate,North,Electronics,Wireless Earbuds,3,3500,1200,0.15,8925.0,5865.0
+ORD0513,2022-04-29,C015,Amit Kumar,Patna,Retail,East,Office Supplies,Whiteboard,8,2500,1200,0.05,19000.0,9880.0
+ORD0514,2023-10-20,C015,Amit Kumar,Patna,Corporate,West,Appliances,Room Heater,3,3000,1500,0,9000,4500
+ORD0515,2022-07-11,C008,Kavya Iyer,Hyderabad,Retail,East,Clothing,Men's Formal Shirt,5,1200,500,0.05,5700.0,3325.0
+ORD0516,2022-10-03,C011,Siddharth Das,Bhopal,Retail,North,Appliances,Microwave 20L,3,8000,4500,0.15,20400.0,8925.0
+ORD0517,2023-11-16,C004,Sneha Patel,Ahmedabad,Corporate,North,Office Supplies,Sticky Notes,7,200,80,0.1,1260.0,756.0
+ORD0518,2023-06-20,C015,Amit Kumar,Patna,Corporate,South,Clothing,Sports Tshirt,8,800,300,0.1,5760.0,3600.0
+ORD0519,2022-11-03,C010,Ritu Joshi,Lucknow,Retail,South,Electronics,Smart Watch,1,8000,4500,0.1,7200.0,3150.0
+ORD0520,2023-04-05,C003,Rohan Gupta,Bangalore,Corporate,North,Furniture,Standing Desk,4,12000,7000,0,48000,20000
+ORD0521,2022-03-22,C005,Vikram Singh,Jaipur,SME,East,Clothing,Women's Kurta,3,900,380,0.1,2430.0,1404.0
+ORD0522,2022-03-10,C009,Mohit Verma,Pune,Corporate,East,Electronics,Smart Watch,9,8000,4500,0.05,68400.0,29925.0
+ORD0523,2023-06-17,C009,Mohit Verma,Pune,Retail,West,Clothing,Men's Formal Shirt,10,1200,500,0.1,10800.0,6300.0
+ORD0524,2023-03-01,C010,Ritu Joshi,Lucknow,Retail,North,Furniture,Standing Desk,10,12000,7000,0.1,108000.0,45000.0
+ORD0525,2023-07-31,C015,Amit Kumar,Patna,Corporate,West,Electronics,Smartphone X,9,22000,12000,0,198000,90000
+ORD0526,2023-01-28,C001,Aarav Sharma,Delhi,Corporate,South,Clothing,Sports Tshirt,10,800,300,0.05,7600.0,4750.0
+ORD0527,2023-02-17,C012,Pooja Saxena,Indore,Retail,West,Furniture,Study Table,10,5500,3000,0.15,46750.0,21250.0
+ORD0528,2023-02-10,C008,Kavya Iyer,Hyderabad,Corporate,East,Office Supplies,Stapler Set,1,600,250,0.15,510.0,297.5
+ORD0529,2022-01-21,C014,Neha Bhatia,Chandigarh,SME,West,Office Supplies,Pen Box 50,5,300,100,0,1500,1000
+ORD0530,2023-12-03,C012,Pooja Saxena,Indore,Corporate,West,Electronics,Wireless Earbuds,3,3500,1200,0,10500,6900
+ORD0531,2022-10-03,C008,Kavya Iyer,Hyderabad,Corporate,South,Clothing,Sports Tshirt,2,800,300,0,1600,1000
+ORD0532,2023-05-12,C013,Rahul Tiwari,Nagpur,Retail,South,Appliances,Electric Kettle,1,1500,700,0.1,1350.0,720.0
+ORD0533,2022-11-15,C015,Amit Kumar,Patna,Retail,North,Appliances,Room Heater,3,3000,1500,0.1,8100.0,4050.0
+ORD0534,2022-07-17,C008,Kavya Iyer,Hyderabad,Corporate,North,Furniture,Office Chair,4,6500,3200,0,26000,13200
+ORD0535,2023-12-23,C009,Mohit Verma,Pune,SME,West,Furniture,Bookshelf,6,4000,2000,0.05,22800.0,11400.0
+ORD0536,2022-05-07,C010,Ritu Joshi,Lucknow,Retail,West,Electronics,Wireless Earbuds,6,3500,1200,0.05,19950.0,13110.0
+ORD0537,2023-05-01,C003,Rohan Gupta,Bangalore,SME,East,Appliances,Table Fan,6,1800,900,0,10800,5400
+ORD0538,2023-12-07,C001,Aarav Sharma,Delhi,SME,South,Electronics,Smartphone X,1,22000,12000,0.05,20900.0,9500.0
+ORD0539,2022-08-08,C011,Siddharth Das,Bhopal,SME,West,Furniture,Standing Desk,4,12000,7000,0,48000,20000
+ORD0540,2022-01-21,C003,Rohan Gupta,Bangalore,Retail,North,Electronics,Smart Watch,3,8000,4500,0.15,20400.0,8925.0
+ORD0541,2022-09-16,C015,Amit Kumar,Patna,Corporate,West,Appliances,Electric Kettle,5,1500,700,0.05,7125.0,3800.0
+ORD0542,2023-04-16,C011,Siddharth Das,Bhopal,SME,West,Office Supplies,Stapler Set,8,600,250,0,4800,2800
+ORD0543,2022-04-15,C011,Siddharth Das,Bhopal,Corporate,East,Electronics,Tablet 10,6,15000,9000,0.1,81000.0,32400.0
+ORD0544,2023-12-02,C005,Vikram Singh,Jaipur,Corporate,East,Electronics,Smart Watch,2,8000,4500,0,16000,7000
+ORD0545,2022-09-25,C013,Rahul Tiwari,Nagpur,Retail,South,Office Supplies,Stapler Set,3,600,250,0.1,1620.0,945.0
+ORD0546,2023-09-07,C001,Aarav Sharma,Delhi,Corporate,West,Clothing,Denim Jeans,3,1800,750,0.15,4590.0,2677.5
+ORD0547,2022-09-23,C001,Aarav Sharma,Delhi,Corporate,South,Clothing,Jacket Winter,7,3500,1500,0.15,20825.0,11900.0
+ORD0548,2022-08-16,C005,Vikram Singh,Jaipur,SME,South,Appliances,Room Heater,6,3000,1500,0.1,16200.0,8100.0
+ORD0549,2023-07-26,C003,Rohan Gupta,Bangalore,SME,East,Furniture,Bookshelf,2,4000,2000,0.05,7600.0,3800.0
+ORD0550,2023-07-27,C006,Ananya Roy,Kolkata,SME,South,Furniture,Bookshelf,2,4000,2000,0,8000,4000
+ORD0551,2022-11-11,C010,Ritu Joshi,Lucknow,Corporate,East,Clothing,Denim Jeans,6,1800,750,0,10800,6300
+ORD0552,2022-05-01,C010,Ritu Joshi,Lucknow,Corporate,North,Clothing,Men's Formal Shirt,10,1200,500,0.1,10800.0,6300.0
+ORD0553,2022-07-19,C005,Vikram Singh,Jaipur,Retail,West,Appliances,Microwave 20L,7,8000,4500,0.1,50400.0,22050.0
+ORD0554,2022-06-04,C010,Ritu Joshi,Lucknow,Retail,West,Furniture,Standing Desk,6,12000,7000,0.05,68400.0,28500.0
+ORD0555,2022-11-20,C011,Siddharth Das,Bhopal,Corporate,South,Furniture,Office Chair,8,6500,3200,0,52000,26400
+ORD0556,2023-10-12,C004,Sneha Patel,Ahmedabad,SME,South,Electronics,Laptop Pro 15,8,45000,28000,0,360000,136000
+ORD0557,2022-06-12,C007,Arjun Nair,Chennai,Corporate,West,Clothing,Men's Formal Shirt,3,1200,500,0.1,3240.0,1890.0
+ORD0558,2023-03-16,C009,Mohit Verma,Pune,SME,South,Clothing,Jacket Winter,1,3500,1500,0,3500,2000
+ORD0559,2023-01-18,C001,Aarav Sharma,Delhi,SME,North,Electronics,Smartphone X,9,22000,12000,0,198000,90000
+ORD0560,2022-09-12,C002,Priya Mehta,Mumbai,SME,West,Furniture,Bookshelf,5,4000,2000,0,20000,10000
+ORD0561,2023-08-26,C005,Vikram Singh,Jaipur,Corporate,East,Office Supplies,Stapler Set,2,600,250,0,1200,700
+ORD0562,2023-06-17,C015,Amit Kumar,Patna,Corporate,South,Appliances,Table Fan,6,1800,900,0.05,10260.0,5130.0
+ORD0563,2023-05-17,C001,Aarav Sharma,Delhi,Retail,South,Office Supplies,Stapler Set,3,600,250,0.05,1710.0,997.5
+ORD0564,2022-05-15,C003,Rohan Gupta,Bangalore,Corporate,North,Furniture,Office Chair,10,6500,3200,0.1,58500.0,29700.0
+ORD0565,2023-12-30,C010,Ritu Joshi,Lucknow,SME,North,Electronics,Smart Watch,5,8000,4500,0.1,36000.0,15750.0
+ORD0566,2022-02-19,C002,Priya Mehta,Mumbai,Corporate,West,Electronics,Laptop Pro 15,1,45000,28000,0.15,38250.0,14450.0
+ORD0567,2023-01-25,C012,Pooja Saxena,Indore,Retail,South,Electronics,Tablet 10,5,15000,9000,0.05,71250.0,28500.0
+ORD0568,2023-12-13,C002,Priya Mehta,Mumbai,SME,East,Electronics,Smartphone X,7,22000,12000,0.15,130900.0,59500.0
+ORD0569,2023-09-13,C012,Pooja Saxena,Indore,Corporate,North,Furniture,Sofa 3-Seater,2,25000,14000,0.1,45000.0,19800.0
+ORD0570,2022-04-27,C004,Sneha Patel,Ahmedabad,SME,East,Electronics,Smart Watch,4,8000,4500,0.1,28800.0,12600.0
+ORD0571,2022-07-26,C001,Aarav Sharma,Delhi,Retail,West,Office Supplies,Whiteboard,5,2500,1200,0,12500,6500
+ORD0572,2023-12-06,C001,Aarav Sharma,Delhi,Retail,North,Clothing,Denim Jeans,4,1800,750,0,7200,4200
+ORD0573,2023-08-11,C002,Priya Mehta,Mumbai,Corporate,North,Clothing,Women's Kurta,2,900,380,0.1,1620.0,936.0
+ORD0574,2023-10-22,C008,Kavya Iyer,Hyderabad,Retail,North,Furniture,Sofa 3-Seater,5,25000,14000,0,125000,55000
+ORD0575,2022-06-28,C006,Ananya Roy,Kolkata,SME,West,Electronics,Smartphone X,6,22000,12000,0.15,112200.0,51000.0
+ORD0576,2022-04-29,C011,Siddharth Das,Bhopal,Corporate,South,Electronics,Laptop Pro 15,1,45000,28000,0,45000,17000
+ORD0577,2023-01-02,C002,Priya Mehta,Mumbai,Corporate,East,Clothing,Sports Tshirt,5,800,300,0.15,3400.0,2125.0
+ORD0578,2022-07-07,C005,Vikram Singh,Jaipur,SME,West,Electronics,Smart Watch,7,8000,4500,0.05,53200.0,23275.0
+ORD0579,2023-05-05,C012,Pooja Saxena,Indore,Retail,North,Clothing,Women's Kurta,2,900,380,0,1800,1040
+ORD0580,2022-04-17,C011,Siddharth Das,Bhopal,Retail,West,Clothing,Sports Tshirt,8,800,300,0.1,5760.0,3600.0
+ORD0581,2023-09-18,C014,Neha Bhatia,Chandigarh,Corporate,South,Clothing,Denim Jeans,10,1800,750,0,18000,10500
+ORD0582,2023-05-15,C002,Priya Mehta,Mumbai,SME,East,Electronics,Smart Watch,8,8000,4500,0,64000,28000
+ORD0583,2022-11-18,C010,Ritu Joshi,Lucknow,SME,South,Electronics,Tablet 10,10,15000,9000,0.15,127500.0,51000.0
+ORD0584,2022-12-13,C007,Arjun Nair,Chennai,Corporate,South,Appliances,Table Fan,10,1800,900,0,18000,9000
+ORD0585,2022-12-21,C001,Aarav Sharma,Delhi,SME,North,Clothing,Women's Kurta,9,900,380,0.1,7290.0,4212.0
+ORD0586,2022-06-10,C002,Priya Mehta,Mumbai,Corporate,West,Appliances,Room Heater,8,3000,1500,0,24000,12000
+ORD0587,2022-09-04,C004,Sneha Patel,Ahmedabad,Corporate,West,Office Supplies,Pen Box 50,1,300,100,0.1,270.0,180.0
+ORD0588,2022-08-29,C008,Kavya Iyer,Hyderabad,Corporate,North,Electronics,Smart Watch,8,8000,4500,0.1,57600.0,25200.0
+ORD0589,2023-04-03,C011,Siddharth Das,Bhopal,Retail,North,Office Supplies,A4 Paper Ream,8,350,150,0.15,2380.0,1360.0
+ORD0590,2023-02-18,C001,Aarav Sharma,Delhi,SME,North,Clothing,Men's Formal Shirt,9,1200,500,0.1,9720.0,5670.0
+ORD0591,2023-09-26,C011,Siddharth Das,Bhopal,Corporate,West,Office Supplies,Sticky Notes,9,200,80,0,1800,1080
+ORD0592,2023-01-08,C009,Mohit Verma,Pune,SME,West,Electronics,Wireless Earbuds,8,3500,1200,0,28000,18400
+ORD0593,2023-11-04,C013,Rahul Tiwari,Nagpur,Retail,South,Office Supplies,Whiteboard,2,2500,1200,0,5000,2600
+ORD0594,2022-12-16,C006,Ananya Roy,Kolkata,Retail,North,Office Supplies,Pen Box 50,9,300,100,0.1,2430.0,1620.0
+ORD0595,2022-06-18,C005,Vikram Singh,Jaipur,Retail,South,Clothing,Women's Kurta,7,900,380,0,6300,3640
+ORD0596,2022-05-04,C012,Pooja Saxena,Indore,Retail,East,Clothing,Women's Kurta,8,900,380,0,7200,4160
+ORD0597,2023-03-01,C008,Kavya Iyer,Hyderabad,Corporate,South,Electronics,Tablet 10,2,15000,9000,0.05,28500.0,11400.0
+ORD0598,2022-01-05,C014,Neha Bhatia,Chandigarh,SME,West,Appliances,Microwave 20L,9,8000,4500,0.05,68400.0,29925.0
+ORD0599,2022-07-01,C007,Arjun Nair,Chennai,SME,East,Appliances,Air Purifier,3,12000,7000,0,36000,15000
+ORD0600,2023-01-29,C007,Arjun Nair,Chennai,Corporate,East,Clothing,Sports Tshirt,4,800,300,0,3200,2000
+ORD0601,2023-04-09,C012,Pooja Saxena,Indore,SME,East,Furniture,Standing Desk,7,12000,7000,0.1,75600.0,31500.0
+ORD0602,2023-07-15,C004,Sneha Patel,Ahmedabad,SME,East,Office Supplies,Sticky Notes,4,200,80,0,800,480
+ORD0603,2022-12-20,C012,Pooja Saxena,Indore,SME,East,Furniture,Standing Desk,9,12000,7000,0.1,97200.0,40500.0
+ORD0604,2022-04-29,C010,Ritu Joshi,Lucknow,SME,West,Office Supplies,Sticky Notes,8,200,80,0.1,1440.0,864.0
+ORD0605,2023-07-01,C002,Priya Mehta,Mumbai,Corporate,North,Office Supplies,Whiteboard,1,2500,1200,0.1,2250.0,1170.0
+ORD0606,2022-05-29,C013,Rahul Tiwari,Nagpur,Corporate,South,Electronics,Laptop Pro 15,4,45000,28000,0,180000,68000
+ORD0607,2023-12-01,C013,Rahul Tiwari,Nagpur,Retail,East,Office Supplies,Stapler Set,1,600,250,0.15,510.0,297.5
+ORD0608,2023-07-09,C010,Ritu Joshi,Lucknow,SME,South,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0609,2023-10-25,C013,Rahul Tiwari,Nagpur,SME,East,Appliances,Room Heater,4,3000,1500,0.1,10800.0,5400.0
+ORD0610,2023-11-12,C013,Rahul Tiwari,Nagpur,SME,East,Electronics,Smart Watch,7,8000,4500,0.05,53200.0,23275.0
+ORD0611,2022-02-25,C014,Neha Bhatia,Chandigarh,Retail,West,Electronics,Smartphone X,4,22000,12000,0.1,79200.0,36000.0
+ORD0612,2023-10-11,C010,Ritu Joshi,Lucknow,SME,South,Office Supplies,Sticky Notes,9,200,80,0.15,1530.0,918.0
+ORD0613,2022-07-18,C002,Priya Mehta,Mumbai,Retail,South,Office Supplies,Whiteboard,3,2500,1200,0.15,6375.0,3315.0
+ORD0614,2023-06-11,C005,Vikram Singh,Jaipur,Retail,East,Electronics,Smart Watch,1,8000,4500,0.05,7600.0,3325.0
+ORD0615,2022-06-14,C008,Kavya Iyer,Hyderabad,Retail,South,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0616,2022-06-07,C010,Ritu Joshi,Lucknow,Corporate,East,Office Supplies,Sticky Notes,1,200,80,0.15,170.0,102.0
+ORD0617,2023-08-10,C006,Ananya Roy,Kolkata,Retail,South,Appliances,Electric Kettle,2,1500,700,0.15,2550.0,1360.0
+ORD0618,2023-06-18,C009,Mohit Verma,Pune,Retail,West,Electronics,Tablet 10,3,15000,9000,0.05,42750.0,17100.0
+ORD0619,2022-12-24,C006,Ananya Roy,Kolkata,Retail,East,Furniture,Standing Desk,6,12000,7000,0,72000,30000
+ORD0620,2023-09-26,C001,Aarav Sharma,Delhi,SME,North,Appliances,Room Heater,9,3000,1500,0.15,22950.0,11475.0
+ORD0621,2022-12-21,C004,Sneha Patel,Ahmedabad,SME,North,Clothing,Women's Kurta,10,900,380,0.1,8100.0,4680.0
+ORD0622,2022-11-25,C009,Mohit Verma,Pune,Retail,East,Clothing,Men's Formal Shirt,7,1200,500,0,8400,4900
+ORD0623,2023-06-14,C008,Kavya Iyer,Hyderabad,Corporate,North,Office Supplies,Sticky Notes,9,200,80,0.05,1710.0,1026.0
+ORD0624,2023-10-30,C002,Priya Mehta,Mumbai,SME,South,Furniture,Bookshelf,9,4000,2000,0,36000,18000
+ORD0625,2023-07-01,C011,Siddharth Das,Bhopal,SME,South,Electronics,Laptop Pro 15,4,45000,28000,0.15,153000.0,57800.0
+ORD0626,2023-03-11,C015,Amit Kumar,Patna,SME,West,Electronics,Wireless Earbuds,9,3500,1200,0.15,26775.0,17595.0
+ORD0627,2022-03-15,C006,Ananya Roy,Kolkata,Retail,North,Furniture,Office Chair,8,6500,3200,0.15,44200.0,22440.0
+ORD0628,2022-03-17,C002,Priya Mehta,Mumbai,Corporate,South,Electronics,Wireless Earbuds,5,3500,1200,0.1,15750.0,10350.0
+ORD0629,2023-02-22,C006,Ananya Roy,Kolkata,Corporate,North,Clothing,Jacket Winter,7,3500,1500,0.05,23275.0,13300.0
+ORD0630,2023-11-21,C012,Pooja Saxena,Indore,SME,North,Electronics,Tablet 10,1,15000,9000,0.15,12750.0,5100.0
+ORD0631,2023-08-23,C002,Priya Mehta,Mumbai,SME,East,Electronics,Laptop Pro 15,6,45000,28000,0.1,243000.0,91800.0
+ORD0632,2022-11-05,C007,Arjun Nair,Chennai,SME,West,Appliances,Microwave 20L,5,8000,4500,0.05,38000.0,16625.0
+ORD0633,2022-02-01,C003,Rohan Gupta,Bangalore,SME,West,Clothing,Women's Kurta,9,900,380,0,8100,4680
+ORD0634,2022-10-30,C009,Mohit Verma,Pune,Retail,South,Furniture,Bookshelf,6,4000,2000,0,24000,12000
+ORD0635,2022-02-12,C009,Mohit Verma,Pune,Corporate,North,Electronics,Tablet 10,10,15000,9000,0.05,142500.0,57000.0
+ORD0636,2022-08-04,C014,Neha Bhatia,Chandigarh,Retail,South,Office Supplies,Stapler Set,7,600,250,0.15,3570.0,2082.5
+ORD0637,2022-07-08,C002,Priya Mehta,Mumbai,SME,South,Furniture,Study Table,5,5500,3000,0,27500,12500
+ORD0638,2023-08-04,C009,Mohit Verma,Pune,Corporate,North,Electronics,Tablet 10,8,15000,9000,0.15,102000.0,40800.0
+ORD0639,2023-11-19,C012,Pooja Saxena,Indore,Corporate,West,Electronics,Smartphone X,2,22000,12000,0,44000,20000
+ORD0640,2023-01-01,C010,Ritu Joshi,Lucknow,Retail,North,Furniture,Standing Desk,2,12000,7000,0,24000,10000
+ORD0641,2022-11-22,C011,Siddharth Das,Bhopal,SME,East,Clothing,Jacket Winter,6,3500,1500,0.1,18900.0,10800.0
+ORD0642,2023-08-22,C013,Rahul Tiwari,Nagpur,Corporate,East,Furniture,Study Table,10,5500,3000,0,55000,25000
+ORD0643,2022-06-22,C012,Pooja Saxena,Indore,Corporate,West,Electronics,Smartphone X,4,22000,12000,0,88000,40000
+ORD0644,2023-01-04,C008,Kavya Iyer,Hyderabad,Corporate,East,Furniture,Bookshelf,8,4000,2000,0.05,30400.0,15200.0
+ORD0645,2023-05-14,C010,Ritu Joshi,Lucknow,Corporate,North,Appliances,Microwave 20L,3,8000,4500,0.15,20400.0,8925.0
+ORD0646,2022-05-24,C015,Amit Kumar,Patna,SME,North,Appliances,Air Purifier,5,12000,7000,0.15,51000.0,21250.0
+ORD0647,2022-03-19,C010,Ritu Joshi,Lucknow,SME,West,Electronics,Tablet 10,1,15000,9000,0.1,13500.0,5400.0
+ORD0648,2022-08-06,C015,Amit Kumar,Patna,SME,West,Electronics,Tablet 10,5,15000,9000,0.1,67500.0,27000.0
+ORD0649,2022-06-02,C012,Pooja Saxena,Indore,Retail,East,Office Supplies,Whiteboard,4,2500,1200,0.1,9000.0,4680.0
+ORD0650,2023-04-21,C006,Ananya Roy,Kolkata,SME,North,Appliances,Table Fan,2,1800,900,0.05,3420.0,1710.0
+ORD0651,2022-09-02,C008,Kavya Iyer,Hyderabad,Retail,South,Appliances,Air Purifier,9,12000,7000,0,108000,45000
+ORD0652,2023-08-03,C001,Aarav Sharma,Delhi,Corporate,South,Appliances,Air Purifier,8,12000,7000,0,96000,40000
+ORD0653,2022-08-26,C001,Aarav Sharma,Delhi,SME,South,Electronics,Smartphone X,6,22000,12000,0,132000,60000
+ORD0654,2023-01-05,C001,Aarav Sharma,Delhi,Retail,East,Clothing,Jacket Winter,8,3500,1500,0,28000,16000
+ORD0655,2023-12-22,C009,Mohit Verma,Pune,Corporate,South,Appliances,Electric Kettle,5,1500,700,0.1,6750.0,3600.0
+ORD0656,2023-11-01,C015,Amit Kumar,Patna,SME,North,Clothing,Denim Jeans,10,1800,750,0.15,15300.0,8925.0
+ORD0657,2022-09-15,C006,Ananya Roy,Kolkata,Corporate,East,Clothing,Women's Kurta,9,900,380,0.05,7695.0,4446.0
+ORD0658,2023-05-09,C008,Kavya Iyer,Hyderabad,Retail,South,Appliances,Microwave 20L,9,8000,4500,0,72000,31500
+ORD0659,2022-03-20,C003,Rohan Gupta,Bangalore,Corporate,South,Appliances,Electric Kettle,4,1500,700,0,6000,3200
+ORD0660,2023-09-09,C012,Pooja Saxena,Indore,Corporate,North,Electronics,Wireless Earbuds,7,3500,1200,0,24500,16100
+ORD0661,2023-11-23,C003,Rohan Gupta,Bangalore,Retail,West,Clothing,Jacket Winter,4,3500,1500,0.1,12600.0,7200.0
+ORD0662,2022-09-07,C003,Rohan Gupta,Bangalore,SME,South,Electronics,Wireless Earbuds,10,3500,1200,0.1,31500.0,20700.0
+ORD0663,2023-06-09,C003,Rohan Gupta,Bangalore,Retail,East,Electronics,Tablet 10,3,15000,9000,0,45000,18000
+ORD0664,2023-06-14,C001,Aarav Sharma,Delhi,Retail,East,Clothing,Sports Tshirt,10,800,300,0.15,6800.0,4250.0
+ORD0665,2022-08-10,C003,Rohan Gupta,Bangalore,Corporate,South,Clothing,Sports Tshirt,8,800,300,0.05,6080.0,3800.0
+ORD0666,2023-09-08,C011,Siddharth Das,Bhopal,Retail,East,Furniture,Study Table,3,5500,3000,0.1,14850.0,6750.0
+ORD0667,2023-12-04,C002,Priya Mehta,Mumbai,Corporate,South,Office Supplies,Whiteboard,10,2500,1200,0.1,22500.0,11700.0
+ORD0668,2023-01-30,C009,Mohit Verma,Pune,Retail,West,Furniture,Office Chair,1,6500,3200,0,6500,3300
+ORD0669,2023-09-13,C010,Ritu Joshi,Lucknow,SME,North,Electronics,Wireless Earbuds,8,3500,1200,0.1,25200.0,16560.0
+ORD0670,2023-05-31,C003,Rohan Gupta,Bangalore,SME,North,Electronics,Laptop Pro 15,8,45000,28000,0.15,306000.0,115600.0
+ORD0671,2023-10-27,C014,Neha Bhatia,Chandigarh,SME,North,Clothing,Sports Tshirt,7,800,300,0,5600,3500
+ORD0672,2023-06-27,C006,Ananya Roy,Kolkata,Corporate,North,Clothing,Women's Kurta,8,900,380,0.05,6840.0,3952.0
+ORD0673,2022-05-18,C005,Vikram Singh,Jaipur,Corporate,West,Office Supplies,Whiteboard,4,2500,1200,0,10000,5200
+ORD0674,2022-07-13,C002,Priya Mehta,Mumbai,Corporate,North,Electronics,Laptop Pro 15,10,45000,28000,0.1,405000.0,153000.0
+ORD0675,2023-11-02,C002,Priya Mehta,Mumbai,Corporate,South,Furniture,Bookshelf,7,4000,2000,0,28000,14000
+ORD0676,2023-10-30,C007,Arjun Nair,Chennai,SME,East,Appliances,Electric Kettle,5,1500,700,0.1,6750.0,3600.0
+ORD0677,2022-10-10,C013,Rahul Tiwari,Nagpur,Retail,West,Clothing,Women's Kurta,7,900,380,0.1,5670.0,3276.0
+ORD0678,2023-01-15,C005,Vikram Singh,Jaipur,SME,East,Appliances,Table Fan,8,1800,900,0,14400,7200
+ORD0679,2023-02-12,C013,Rahul Tiwari,Nagpur,Retail,South,Furniture,Office Chair,4,6500,3200,0.05,24700.0,12540.0
+ORD0680,2022-08-08,C010,Ritu Joshi,Lucknow,Retail,North,Appliances,Room Heater,6,3000,1500,0.1,16200.0,8100.0
+ORD0681,2023-02-03,C015,Amit Kumar,Patna,Retail,West,Electronics,Laptop Pro 15,3,45000,28000,0.05,128250.0,48450.0
+ORD0682,2022-03-07,C010,Ritu Joshi,Lucknow,SME,North,Office Supplies,Stapler Set,6,600,250,0,3600,2100
+ORD0683,2023-01-29,C012,Pooja Saxena,Indore,Retail,North,Clothing,Sports Tshirt,9,800,300,0,7200,4500
+ORD0684,2023-10-18,C014,Neha Bhatia,Chandigarh,Retail,East,Clothing,Jacket Winter,1,3500,1500,0,3500,2000
+ORD0685,2022-02-04,C004,Sneha Patel,Ahmedabad,SME,South,Appliances,Table Fan,9,1800,900,0.15,13770.0,6885.0
+ORD0686,2022-02-06,C002,Priya Mehta,Mumbai,Corporate,East,Office Supplies,Stapler Set,1,600,250,0,600,350
+ORD0687,2022-12-28,C009,Mohit Verma,Pune,SME,North,Clothing,Jacket Winter,10,3500,1500,0,35000,20000
+ORD0688,2023-12-22,C012,Pooja Saxena,Indore,Corporate,East,Electronics,Laptop Pro 15,9,45000,28000,0,405000,153000
+ORD0689,2022-10-11,C015,Amit Kumar,Patna,SME,West,Furniture,Study Table,4,5500,3000,0.05,20900.0,9500.0
+ORD0690,2022-01-05,C002,Priya Mehta,Mumbai,SME,North,Office Supplies,Stapler Set,7,600,250,0.1,3780.0,2205.0
+ORD0691,2022-10-29,C015,Amit Kumar,Patna,SME,East,Office Supplies,A4 Paper Ream,9,350,150,0,3150,1800
+ORD0692,2023-03-30,C013,Rahul Tiwari,Nagpur,Corporate,East,Clothing,Sports Tshirt,8,800,300,0,6400,4000
+ORD0693,2023-11-29,C002,Priya Mehta,Mumbai,Retail,East,Clothing,Sports Tshirt,1,800,300,0.05,760.0,475.0
+ORD0694,2023-01-27,C006,Ananya Roy,Kolkata,SME,North,Furniture,Standing Desk,6,12000,7000,0.05,68400.0,28500.0
+ORD0695,2022-09-27,C011,Siddharth Das,Bhopal,Retail,East,Furniture,Bookshelf,2,4000,2000,0.05,7600.0,3800.0
+ORD0696,2023-07-22,C004,Sneha Patel,Ahmedabad,Retail,East,Furniture,Sofa 3-Seater,6,25000,14000,0,150000,66000
+ORD0697,2023-12-01,C012,Pooja Saxena,Indore,Corporate,South,Furniture,Sofa 3-Seater,4,25000,14000,0,100000,44000
+ORD0698,2022-07-31,C006,Ananya Roy,Kolkata,Retail,South,Furniture,Standing Desk,4,12000,7000,0.1,43200.0,18000.0
+ORD0699,2022-05-03,C013,Rahul Tiwari,Nagpur,Corporate,North,Electronics,Smart Watch,10,8000,4500,0,80000,35000
+ORD0700,2023-01-16,C014,Neha Bhatia,Chandigarh,Corporate,East,Appliances,Electric Kettle,8,1500,700,0.1,10800.0,5760.0
+ORD0701,2022-07-07,C013,Rahul Tiwari,Nagpur,Retail,South,Appliances,Electric Kettle,7,1500,700,0,10500,5600
+ORD0702,2023-06-23,C009,Mohit Verma,Pune,Corporate,East,Clothing,Jacket Winter,9,3500,1500,0,31500,18000
+ORD0703,2023-12-04,C009,Mohit Verma,Pune,Corporate,West,Furniture,Sofa 3-Seater,2,25000,14000,0.15,42500.0,18700.0
+ORD0704,2023-12-07,C010,Ritu Joshi,Lucknow,Corporate,North,Electronics,Laptop Pro 15,4,45000,28000,0.05,171000.0,64600.0
+ORD0705,2023-01-06,C005,Vikram Singh,Jaipur,Corporate,South,Appliances,Electric Kettle,3,1500,700,0.1,4050.0,2160.0
+ORD0706,2023-04-28,C008,Kavya Iyer,Hyderabad,Retail,West,Appliances,Electric Kettle,6,1500,700,0,9000,4800
+ORD0707,2023-03-06,C008,Kavya Iyer,Hyderabad,SME,South,Office Supplies,Pen Box 50,7,300,100,0,2100,1400
+ORD0708,2022-05-15,C005,Vikram Singh,Jaipur,SME,South,Appliances,Air Purifier,2,12000,7000,0.15,20400.0,8500.0
+ORD0709,2023-03-19,C003,Rohan Gupta,Bangalore,Retail,West,Clothing,Women's Kurta,3,900,380,0.15,2295.0,1326.0
+ORD0710,2022-06-30,C009,Mohit Verma,Pune,Corporate,East,Clothing,Jacket Winter,3,3500,1500,0.15,8925.0,5100.0
+ORD0711,2022-11-04,C007,Arjun Nair,Chennai,SME,North,Office Supplies,Sticky Notes,10,200,80,0,2000,1200
+ORD0712,2022-06-17,C014,Neha Bhatia,Chandigarh,Corporate,North,Electronics,Wireless Earbuds,5,3500,1200,0.05,16625.0,10925.0
+ORD0713,2022-12-09,C009,Mohit Verma,Pune,Corporate,East,Office Supplies,Pen Box 50,6,300,100,0.1,1620.0,1080.0
+ORD0714,2022-01-21,C010,Ritu Joshi,Lucknow,SME,South,Clothing,Men's Formal Shirt,6,1200,500,0.15,6120.0,3570.0
+ORD0715,2023-08-13,C006,Ananya Roy,Kolkata,SME,West,Appliances,Air Purifier,5,12000,7000,0,60000,25000
+ORD0716,2023-04-03,C008,Kavya Iyer,Hyderabad,Retail,South,Electronics,Smart Watch,10,8000,4500,0,80000,35000
+ORD0717,2023-10-18,C007,Arjun Nair,Chennai,Retail,North,Office Supplies,Whiteboard,10,2500,1200,0.1,22500.0,11700.0
+ORD0718,2022-06-15,C011,Siddharth Das,Bhopal,SME,East,Office Supplies,Stapler Set,6,600,250,0,3600,2100
+ORD0719,2022-10-01,C013,Rahul Tiwari,Nagpur,SME,East,Appliances,Room Heater,5,3000,1500,0.05,14250.0,7125.0
+ORD0720,2023-08-25,C003,Rohan Gupta,Bangalore,Retail,North,Appliances,Room Heater,7,3000,1500,0,21000,10500
+ORD0721,2022-08-29,C007,Arjun Nair,Chennai,Retail,North,Office Supplies,A4 Paper Ream,4,350,150,0,1400,800
+ORD0722,2022-03-07,C013,Rahul Tiwari,Nagpur,SME,West,Clothing,Sports Tshirt,1,800,300,0,800,500
+ORD0723,2022-03-27,C002,Priya Mehta,Mumbai,Corporate,West,Electronics,Smartphone X,10,22000,12000,0,220000,100000
+ORD0724,2022-08-23,C003,Rohan Gupta,Bangalore,SME,South,Furniture,Bookshelf,8,4000,2000,0.15,27200.0,13600.0
+ORD0725,2022-06-24,C014,Neha Bhatia,Chandigarh,Corporate,West,Electronics,Laptop Pro 15,6,45000,28000,0,270000,102000
+ORD0726,2023-07-08,C012,Pooja Saxena,Indore,SME,South,Office Supplies,Sticky Notes,8,200,80,0,1600,960
+ORD0727,2023-09-04,C011,Siddharth Das,Bhopal,Corporate,East,Clothing,Sports Tshirt,7,800,300,0.1,5040.0,3150.0
+ORD0728,2023-05-09,C005,Vikram Singh,Jaipur,Corporate,East,Appliances,Air Purifier,2,12000,7000,0.05,22800.0,9500.0
+ORD0729,2022-09-24,C009,Mohit Verma,Pune,Corporate,South,Furniture,Bookshelf,1,4000,2000,0,4000,2000
+ORD0730,2022-10-21,C015,Amit Kumar,Patna,Corporate,West,Clothing,Sports Tshirt,1,800,300,0.15,680.0,425.0
+ORD0731,2022-11-03,C004,Sneha Patel,Ahmedabad,SME,North,Electronics,Smart Watch,5,8000,4500,0.1,36000.0,15750.0
+ORD0732,2023-01-18,C007,Arjun Nair,Chennai,Retail,South,Furniture,Sofa 3-Seater,9,25000,14000,0.05,213750.0,94050.0
+ORD0733,2023-10-24,C002,Priya Mehta,Mumbai,SME,West,Clothing,Jacket Winter,4,3500,1500,0,14000,8000
+ORD0734,2022-09-03,C011,Siddharth Das,Bhopal,Corporate,East,Appliances,Table Fan,5,1800,900,0,9000,4500
+ORD0735,2022-07-12,C002,Priya Mehta,Mumbai,SME,West,Electronics,Wireless Earbuds,3,3500,1200,0,10500,6900
+ORD0736,2023-04-09,C006,Ananya Roy,Kolkata,Retail,North,Office Supplies,Sticky Notes,8,200,80,0,1600,960
+ORD0737,2022-02-20,C005,Vikram Singh,Jaipur,Retail,East,Appliances,Microwave 20L,3,8000,4500,0,24000,10500
+ORD0738,2023-03-25,C001,Aarav Sharma,Delhi,Retail,West,Electronics,Wireless Earbuds,2,3500,1200,0,7000,4600
+ORD0739,2022-12-17,C008,Kavya Iyer,Hyderabad,Corporate,North,Clothing,Denim Jeans,8,1800,750,0,14400,8400
+ORD0740,2022-03-24,C002,Priya Mehta,Mumbai,Retail,West,Furniture,Office Chair,5,6500,3200,0.05,30875.0,15675.0
+ORD0741,2022-07-16,C013,Rahul Tiwari,Nagpur,Corporate,South,Office Supplies,Whiteboard,1,2500,1200,0,2500,1300
+ORD0742,2023-03-30,C012,Pooja Saxena,Indore,SME,North,Furniture,Office Chair,4,6500,3200,0.05,24700.0,12540.0
+ORD0743,2023-11-13,C005,Vikram Singh,Jaipur,Retail,East,Furniture,Sofa 3-Seater,7,25000,14000,0.15,148750.0,65450.0
+ORD0744,2023-10-07,C005,Vikram Singh,Jaipur,SME,West,Electronics,Tablet 10,9,15000,9000,0,135000,54000
+ORD0745,2022-11-02,C004,Sneha Patel,Ahmedabad,Retail,North,Furniture,Bookshelf,1,4000,2000,0.15,3400.0,1700.0
+ORD0746,2023-10-11,C013,Rahul Tiwari,Nagpur,SME,East,Clothing,Denim Jeans,1,1800,750,0,1800,1050
+ORD0747,2022-05-03,C010,Ritu Joshi,Lucknow,SME,West,Clothing,Women's Kurta,1,900,380,0,900,520
+ORD0748,2023-09-03,C003,Rohan Gupta,Bangalore,Retail,West,Furniture,Bookshelf,2,4000,2000,0,8000,4000
+ORD0749,2023-12-04,C006,Ananya Roy,Kolkata,SME,South,Appliances,Electric Kettle,1,1500,700,0,1500,800
+ORD0750,2023-07-04,C006,Ananya Roy,Kolkata,Corporate,East,Electronics,Wireless Earbuds,8,3500,1200,0,28000,18400
+ORD0751,2022-07-17,C003,Rohan Gupta,Bangalore,Retail,East,Electronics,Smart Watch,6,8000,4500,0.15,40800.0,17850.0
+ORD0752,2023-05-12,C012,Pooja Saxena,Indore,Retail,West,Clothing,Sports Tshirt,5,800,300,0.1,3600.0,2250.0
+ORD0753,2023-08-04,C012,Pooja Saxena,Indore,Corporate,West,Furniture,Study Table,6,5500,3000,0,33000,15000
+ORD0754,2023-09-06,C003,Rohan Gupta,Bangalore,Corporate,West,Appliances,Air Purifier,2,12000,7000,0.1,21600.0,9000.0
+ORD0755,2022-09-27,C013,Rahul Tiwari,Nagpur,SME,West,Appliances,Electric Kettle,8,1500,700,0,12000,6400
+ORD0756,2022-07-09,C004,Sneha Patel,Ahmedabad,SME,East,Electronics,Tablet 10,6,15000,9000,0.1,81000.0,32400.0
+ORD0757,2022-03-06,C011,Siddharth Das,Bhopal,SME,West,Appliances,Room Heater,4,3000,1500,0.1,10800.0,5400.0
+ORD0758,2022-06-07,C011,Siddharth Das,Bhopal,Retail,East,Appliances,Electric Kettle,6,1500,700,0.05,8550.0,4560.0
+ORD0759,2022-04-09,C003,Rohan Gupta,Bangalore,Retail,North,Appliances,Microwave 20L,1,8000,4500,0,8000,3500
+ORD0760,2022-04-20,C010,Ritu Joshi,Lucknow,SME,West,Clothing,Women's Kurta,2,900,380,0,1800,1040
+ORD0761,2023-05-17,C001,Aarav Sharma,Delhi,Retail,East,Appliances,Table Fan,10,1800,900,0,18000,9000
+ORD0762,2023-09-13,C008,Kavya Iyer,Hyderabad,Corporate,North,Electronics,Laptop Pro 15,4,45000,28000,0.15,153000.0,57800.0
+ORD0763,2023-10-17,C015,Amit Kumar,Patna,Corporate,West,Electronics,Smartphone X,9,22000,12000,0.15,168300.0,76500.0
+ORD0764,2023-12-27,C001,Aarav Sharma,Delhi,Corporate,North,Electronics,Tablet 10,5,15000,9000,0.1,67500.0,27000.0
+ORD0765,2022-03-21,C012,Pooja Saxena,Indore,SME,South,Furniture,Study Table,2,5500,3000,0,11000,5000
+ORD0766,2023-01-30,C004,Sneha Patel,Ahmedabad,SME,South,Furniture,Standing Desk,9,12000,7000,0.15,91800.0,38250.0
+ORD0767,2023-07-26,C011,Siddharth Das,Bhopal,SME,West,Clothing,Men's Formal Shirt,10,1200,500,0,12000,7000
+ORD0768,2023-11-13,C009,Mohit Verma,Pune,SME,West,Clothing,Men's Formal Shirt,3,1200,500,0,3600,2100
+ORD0769,2022-12-12,C015,Amit Kumar,Patna,Corporate,East,Furniture,Study Table,10,5500,3000,0.05,52250.0,23750.0
+ORD0770,2023-07-18,C007,Arjun Nair,Chennai,SME,East,Office Supplies,Pen Box 50,7,300,100,0.15,1785.0,1190.0
+ORD0771,2022-09-04,C013,Rahul Tiwari,Nagpur,Corporate,East,Appliances,Table Fan,4,1800,900,0.05,6840.0,3420.0
+ORD0772,2023-04-09,C001,Aarav Sharma,Delhi,SME,East,Clothing,Jacket Winter,1,3500,1500,0.15,2975.0,1700.0
+ORD0773,2022-01-17,C005,Vikram Singh,Jaipur,Retail,South,Appliances,Air Purifier,5,12000,7000,0,60000,25000
+ORD0774,2022-11-19,C009,Mohit Verma,Pune,Retail,South,Electronics,Smartphone X,9,22000,12000,0.1,178200.0,81000.0
+ORD0775,2022-02-08,C005,Vikram Singh,Jaipur,SME,East,Clothing,Denim Jeans,3,1800,750,0,5400,3150
+ORD0776,2022-09-13,C010,Ritu Joshi,Lucknow,SME,West,Furniture,Bookshelf,5,4000,2000,0,20000,10000
+ORD0777,2022-08-11,C008,Kavya Iyer,Hyderabad,SME,North,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0778,2023-10-20,C002,Priya Mehta,Mumbai,Corporate,North,Office Supplies,A4 Paper Ream,10,350,150,0.05,3325.0,1900.0
+ORD0779,2022-12-23,C012,Pooja Saxena,Indore,SME,North,Clothing,Jacket Winter,2,3500,1500,0,7000,4000
+ORD0780,2023-10-10,C001,Aarav Sharma,Delhi,SME,East,Clothing,Men's Formal Shirt,5,1200,500,0.1,5400.0,3150.0
+ORD0781,2023-08-02,C004,Sneha Patel,Ahmedabad,Retail,South,Furniture,Bookshelf,9,4000,2000,0.15,30600.0,15300.0
+ORD0782,2023-11-21,C009,Mohit Verma,Pune,Retail,North,Clothing,Jacket Winter,10,3500,1500,0.1,31500.0,18000.0
+ORD0783,2023-03-19,C006,Ananya Roy,Kolkata,Corporate,North,Office Supplies,Whiteboard,3,2500,1200,0,7500,3900
+ORD0784,2023-08-09,C002,Priya Mehta,Mumbai,SME,West,Electronics,Tablet 10,7,15000,9000,0,105000,42000
+ORD0785,2023-03-21,C004,Sneha Patel,Ahmedabad,Corporate,West,Furniture,Standing Desk,8,12000,7000,0.1,86400.0,36000.0
+ORD0786,2023-10-30,C012,Pooja Saxena,Indore,Retail,South,Appliances,Air Purifier,9,12000,7000,0.1,97200.0,40500.0
+ORD0787,2022-03-15,C015,Amit Kumar,Patna,Retail,North,Office Supplies,Whiteboard,6,2500,1200,0.15,12750.0,6630.0
+ORD0788,2023-11-19,C004,Sneha Patel,Ahmedabad,Corporate,East,Clothing,Jacket Winter,6,3500,1500,0,21000,12000
+ORD0789,2023-09-01,C010,Ritu Joshi,Lucknow,SME,West,Electronics,Smartphone X,3,22000,12000,0,66000,30000
+ORD0790,2022-05-30,C011,Siddharth Das,Bhopal,Retail,East,Clothing,Men's Formal Shirt,4,1200,500,0,4800,2800
+ORD0791,2022-03-29,C015,Amit Kumar,Patna,Corporate,South,Electronics,Laptop Pro 15,4,45000,28000,0.1,162000.0,61200.0
+ORD0792,2022-01-15,C008,Kavya Iyer,Hyderabad,Corporate,North,Office Supplies,A4 Paper Ream,5,350,150,0.05,1662.5,950.0
+ORD0793,2022-08-03,C009,Mohit Verma,Pune,SME,East,Appliances,Air Purifier,4,12000,7000,0.1,43200.0,18000.0
+ORD0794,2023-05-10,C010,Ritu Joshi,Lucknow,Corporate,North,Appliances,Air Purifier,1,12000,7000,0.05,11400.0,4750.0
+ORD0795,2022-06-24,C010,Ritu Joshi,Lucknow,Retail,East,Electronics,Smartphone X,4,22000,12000,0.15,74800.0,34000.0
+ORD0796,2023-04-22,C005,Vikram Singh,Jaipur,Retail,East,Electronics,Laptop Pro 15,7,45000,28000,0.15,267750.0,101150.0
+ORD0797,2022-01-20,C009,Mohit Verma,Pune,Corporate,North,Office Supplies,Whiteboard,4,2500,1200,0.05,9500.0,4940.0
+ORD0798,2023-05-12,C004,Sneha Patel,Ahmedabad,SME,West,Appliances,Table Fan,2,1800,900,0,3600,1800
+ORD0799,2023-12-31,C005,Vikram Singh,Jaipur,Corporate,East,Electronics,Laptop Pro 15,4,45000,28000,0.1,162000.0,61200.0
+ORD0800,2023-02-07,C006,Ananya Roy,Kolkata,SME,East,Furniture,Office Chair,6,6500,3200,0.15,33150.0,16830.0
+ORD0801,2022-11-06,C011,Siddharth Das,Bhopal,Corporate,East,Furniture,Study Table,5,5500,3000,0,27500,12500
+ORD0802,2022-01-31,C006,Ananya Roy,Kolkata,SME,West,Appliances,Electric Kettle,4,1500,700,0,6000,3200
+ORD0803,2022-05-21,C010,Ritu Joshi,Lucknow,Corporate,South,Electronics,Smart Watch,9,8000,4500,0.15,61200.0,26775.0
+ORD0804,2022-09-04,C015,Amit Kumar,Patna,Corporate,East,Appliances,Air Purifier,7,12000,7000,0,84000,35000
+ORD0805,2023-07-10,C009,Mohit Verma,Pune,Retail,South,Furniture,Standing Desk,3,12000,7000,0.1,32400.0,13500.0
+ORD0806,2022-11-13,C011,Siddharth Das,Bhopal,Corporate,South,Appliances,Air Purifier,7,12000,7000,0,84000,35000
+ORD0807,2022-03-11,C006,Ananya Roy,Kolkata,SME,South,Appliances,Table Fan,2,1800,900,0,3600,1800
+ORD0808,2022-01-31,C008,Kavya Iyer,Hyderabad,Retail,East,Office Supplies,Whiteboard,7,2500,1200,0,17500,9100
+ORD0809,2022-07-12,C013,Rahul Tiwari,Nagpur,SME,East,Electronics,Wireless Earbuds,3,3500,1200,0,10500,6900
+ORD0810,2023-08-04,C004,Sneha Patel,Ahmedabad,Corporate,North,Appliances,Air Purifier,10,12000,7000,0,120000,50000
+ORD0811,2022-03-23,C008,Kavya Iyer,Hyderabad,Retail,East,Clothing,Women's Kurta,9,900,380,0.1,7290.0,4212.0
+ORD0812,2023-02-01,C004,Sneha Patel,Ahmedabad,Retail,South,Clothing,Jacket Winter,3,3500,1500,0,10500,6000
+ORD0813,2023-02-23,C012,Pooja Saxena,Indore,Retail,South,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0814,2022-03-09,C012,Pooja Saxena,Indore,Corporate,East,Furniture,Sofa 3-Seater,10,25000,14000,0.05,237500.0,104500.0
+ORD0815,2022-09-10,C012,Pooja Saxena,Indore,SME,West,Clothing,Jacket Winter,1,3500,1500,0.1,3150.0,1800.0
+ORD0816,2022-11-17,C009,Mohit Verma,Pune,SME,North,Clothing,Sports Tshirt,10,800,300,0.1,7200.0,4500.0
+ORD0817,2022-04-22,C009,Mohit Verma,Pune,SME,West,Clothing,Jacket Winter,1,3500,1500,0,3500,2000
+ORD0818,2022-02-10,C001,Aarav Sharma,Delhi,Corporate,South,Appliances,Room Heater,9,3000,1500,0.15,22950.0,11475.0
+ORD0819,2023-03-27,C003,Rohan Gupta,Bangalore,Corporate,West,Clothing,Denim Jeans,5,1800,750,0.05,8550.0,4987.5
+ORD0820,2023-09-20,C014,Neha Bhatia,Chandigarh,Retail,West,Electronics,Tablet 10,3,15000,9000,0.05,42750.0,17100.0
+ORD0821,2023-05-28,C009,Mohit Verma,Pune,Corporate,South,Electronics,Wireless Earbuds,10,3500,1200,0.15,29750.0,19550.0
+ORD0822,2023-02-28,C008,Kavya Iyer,Hyderabad,Corporate,South,Office Supplies,Whiteboard,1,2500,1200,0,2500,1300
+ORD0823,2022-04-03,C012,Pooja Saxena,Indore,Retail,North,Office Supplies,Pen Box 50,3,300,100,0.15,765.0,510.0
+ORD0824,2022-04-27,C012,Pooja Saxena,Indore,SME,West,Clothing,Denim Jeans,2,1800,750,0.1,3240.0,1890.0
+ORD0825,2023-06-08,C007,Arjun Nair,Chennai,Retail,North,Appliances,Air Purifier,7,12000,7000,0.1,75600.0,31500.0
+ORD0826,2022-12-10,C003,Rohan Gupta,Bangalore,Corporate,North,Appliances,Air Purifier,3,12000,7000,0,36000,15000
+ORD0827,2022-11-12,C003,Rohan Gupta,Bangalore,Retail,North,Office Supplies,Whiteboard,5,2500,1200,0.15,10625.0,5525.0
+ORD0828,2022-07-27,C008,Kavya Iyer,Hyderabad,Corporate,West,Electronics,Tablet 10,5,15000,9000,0,75000,30000
+ORD0829,2023-07-11,C004,Sneha Patel,Ahmedabad,Corporate,West,Electronics,Tablet 10,8,15000,9000,0,120000,48000
+ORD0830,2023-02-24,C001,Aarav Sharma,Delhi,SME,South,Clothing,Men's Formal Shirt,10,1200,500,0.1,10800.0,6300.0
+ORD0831,2022-10-12,C003,Rohan Gupta,Bangalore,Retail,South,Appliances,Table Fan,4,1800,900,0,7200,3600
+ORD0832,2023-10-31,C011,Siddharth Das,Bhopal,Corporate,East,Office Supplies,A4 Paper Ream,3,350,150,0,1050,600
+ORD0833,2022-03-31,C003,Rohan Gupta,Bangalore,SME,East,Electronics,Laptop Pro 15,7,45000,28000,0,315000,119000
+ORD0834,2023-11-08,C008,Kavya Iyer,Hyderabad,Retail,East,Appliances,Table Fan,9,1800,900,0,16200,8100
+ORD0835,2022-04-06,C014,Neha Bhatia,Chandigarh,Corporate,North,Office Supplies,Pen Box 50,6,300,100,0.05,1710.0,1140.0
+ORD0836,2023-07-18,C002,Priya Mehta,Mumbai,Corporate,East,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0837,2023-06-24,C004,Sneha Patel,Ahmedabad,Retail,North,Clothing,Sports Tshirt,4,800,300,0.15,2720.0,1700.0
+ORD0838,2023-08-09,C012,Pooja Saxena,Indore,Corporate,East,Appliances,Microwave 20L,8,8000,4500,0.15,54400.0,23800.0
+ORD0839,2023-09-16,C010,Ritu Joshi,Lucknow,Retail,East,Office Supplies,Pen Box 50,9,300,100,0.1,2430.0,1620.0
+ORD0840,2023-09-22,C011,Siddharth Das,Bhopal,Corporate,West,Appliances,Room Heater,9,3000,1500,0.15,22950.0,11475.0
+ORD0841,2022-07-04,C001,Aarav Sharma,Delhi,Retail,North,Appliances,Air Purifier,5,12000,7000,0,60000,25000
+ORD0842,2023-04-22,C007,Arjun Nair,Chennai,Corporate,North,Electronics,Wireless Earbuds,10,3500,1200,0.05,33250.0,21850.0
+ORD0843,2022-12-25,C004,Sneha Patel,Ahmedabad,Corporate,East,Appliances,Air Purifier,1,12000,7000,0.15,10200.0,4250.0
+ORD0844,2022-03-11,C006,Ananya Roy,Kolkata,Retail,North,Office Supplies,Pen Box 50,9,300,100,0.1,2430.0,1620.0
+ORD0845,2023-12-04,C010,Ritu Joshi,Lucknow,Retail,North,Office Supplies,Pen Box 50,7,300,100,0.15,1785.0,1190.0
+ORD0846,2022-07-18,C013,Rahul Tiwari,Nagpur,SME,North,Office Supplies,Pen Box 50,8,300,100,0.05,2280.0,1520.0
+ORD0847,2022-05-20,C015,Amit Kumar,Patna,Corporate,East,Clothing,Women's Kurta,8,900,380,0.1,6480.0,3744.0
+ORD0848,2023-02-28,C012,Pooja Saxena,Indore,SME,East,Electronics,Tablet 10,5,15000,9000,0.1,67500.0,27000.0
+ORD0849,2023-07-03,C006,Ananya Roy,Kolkata,Retail,East,Electronics,Wireless Earbuds,10,3500,1200,0.15,29750.0,19550.0
+ORD0850,2022-06-02,C011,Siddharth Das,Bhopal,SME,South,Office Supplies,A4 Paper Ream,6,350,150,0.05,1995.0,1140.0
+ORD0851,2023-09-13,C014,Neha Bhatia,Chandigarh,SME,East,Clothing,Women's Kurta,10,900,380,0,9000,5200
+ORD0852,2022-11-19,C008,Kavya Iyer,Hyderabad,Corporate,South,Electronics,Smartphone X,7,22000,12000,0,154000,70000
+ORD0853,2023-04-08,C003,Rohan Gupta,Bangalore,Corporate,North,Office Supplies,Stapler Set,9,600,250,0,5400,3150
+ORD0854,2022-02-08,C001,Aarav Sharma,Delhi,SME,West,Furniture,Office Chair,8,6500,3200,0.1,46800.0,23760.0
+ORD0855,2022-06-07,C014,Neha Bhatia,Chandigarh,Corporate,East,Furniture,Bookshelf,8,4000,2000,0.15,27200.0,13600.0
+ORD0856,2022-05-27,C012,Pooja Saxena,Indore,Corporate,North,Electronics,Tablet 10,3,15000,9000,0,45000,18000
+ORD0857,2023-02-01,C015,Amit Kumar,Patna,SME,North,Appliances,Microwave 20L,1,8000,4500,0,8000,3500
+ORD0858,2023-09-01,C002,Priya Mehta,Mumbai,Retail,East,Electronics,Smartphone X,8,22000,12000,0,176000,80000
+ORD0859,2023-08-15,C004,Sneha Patel,Ahmedabad,Corporate,East,Office Supplies,Stapler Set,6,600,250,0,3600,2100
+ORD0860,2023-06-30,C003,Rohan Gupta,Bangalore,Corporate,South,Office Supplies,Whiteboard,2,2500,1200,0,5000,2600
+ORD0861,2022-04-28,C002,Priya Mehta,Mumbai,SME,South,Electronics,Tablet 10,9,15000,9000,0.1,121500.0,48600.0
+ORD0862,2022-12-25,C012,Pooja Saxena,Indore,SME,East,Appliances,Electric Kettle,5,1500,700,0,7500,4000
+ORD0863,2022-09-08,C015,Amit Kumar,Patna,SME,East,Furniture,Office Chair,5,6500,3200,0.1,29250.0,14850.0
+ORD0864,2023-03-31,C015,Amit Kumar,Patna,Retail,North,Electronics,Wireless Earbuds,1,3500,1200,0.05,3325.0,2185.0
+ORD0865,2023-01-28,C003,Rohan Gupta,Bangalore,SME,West,Electronics,Laptop Pro 15,7,45000,28000,0.05,299250.0,113050.0
+ORD0866,2022-12-31,C013,Rahul Tiwari,Nagpur,Corporate,North,Office Supplies,Pen Box 50,4,300,100,0.15,1020.0,680.0
+ORD0867,2023-08-05,C008,Kavya Iyer,Hyderabad,SME,East,Furniture,Office Chair,8,6500,3200,0,52000,26400
+ORD0868,2023-10-22,C003,Rohan Gupta,Bangalore,Corporate,East,Clothing,Jacket Winter,4,3500,1500,0,14000,8000
+ORD0869,2023-02-06,C008,Kavya Iyer,Hyderabad,Retail,North,Furniture,Bookshelf,6,4000,2000,0.05,22800.0,11400.0
+ORD0870,2023-05-02,C014,Neha Bhatia,Chandigarh,Corporate,South,Electronics,Smartphone X,8,22000,12000,0.05,167200.0,76000.0
+ORD0871,2022-12-23,C002,Priya Mehta,Mumbai,SME,West,Appliances,Table Fan,3,1800,900,0.1,4860.0,2430.0
+ORD0872,2022-04-20,C009,Mohit Verma,Pune,Corporate,West,Office Supplies,Sticky Notes,2,200,80,0,400,240
+ORD0873,2023-08-28,C009,Mohit Verma,Pune,Corporate,South,Clothing,Women's Kurta,10,900,380,0,9000,5200
+ORD0874,2023-01-29,C010,Ritu Joshi,Lucknow,Corporate,West,Electronics,Smartphone X,4,22000,12000,0.15,74800.0,34000.0
+ORD0875,2023-08-04,C011,Siddharth Das,Bhopal,SME,North,Office Supplies,Sticky Notes,4,200,80,0,800,480
+ORD0876,2023-12-30,C010,Ritu Joshi,Lucknow,Corporate,West,Appliances,Room Heater,2,3000,1500,0.1,5400.0,2700.0
+ORD0877,2023-07-23,C007,Arjun Nair,Chennai,SME,North,Electronics,Smart Watch,3,8000,4500,0,24000,10500
+ORD0878,2022-04-22,C011,Siddharth Das,Bhopal,Retail,North,Appliances,Room Heater,6,3000,1500,0.05,17100.0,8550.0
+ORD0879,2022-08-11,C011,Siddharth Das,Bhopal,Corporate,South,Furniture,Study Table,1,5500,3000,0,5500,2500
+ORD0880,2023-06-29,C008,Kavya Iyer,Hyderabad,Retail,South,Office Supplies,Whiteboard,10,2500,1200,0.1,22500.0,11700.0
+ORD0881,2023-11-29,C005,Vikram Singh,Jaipur,SME,West,Office Supplies,Pen Box 50,10,300,100,0.15,2550.0,1700.0
+ORD0882,2022-12-19,C009,Mohit Verma,Pune,Retail,West,Electronics,Tablet 10,1,15000,9000,0.1,13500.0,5400.0
+ORD0883,2022-10-29,C001,Aarav Sharma,Delhi,Retail,East,Electronics,Smartphone X,9,22000,12000,0,198000,90000
+ORD0884,2022-10-16,C010,Ritu Joshi,Lucknow,SME,West,Electronics,Wireless Earbuds,7,3500,1200,0.15,20825.0,13685.0
+ORD0885,2022-11-22,C009,Mohit Verma,Pune,SME,South,Clothing,Jacket Winter,7,3500,1500,0.05,23275.0,13300.0
+ORD0886,2022-06-27,C007,Arjun Nair,Chennai,Corporate,East,Clothing,Women's Kurta,4,900,380,0.1,3240.0,1872.0
+ORD0887,2022-06-07,C002,Priya Mehta,Mumbai,Retail,North,Office Supplies,Stapler Set,3,600,250,0,1800,1050
+ORD0888,2023-05-14,C011,Siddharth Das,Bhopal,Corporate,West,Clothing,Women's Kurta,2,900,380,0,1800,1040
+ORD0889,2023-12-14,C008,Kavya Iyer,Hyderabad,SME,West,Appliances,Room Heater,10,3000,1500,0,30000,15000
+ORD0890,2023-04-06,C007,Arjun Nair,Chennai,SME,North,Clothing,Denim Jeans,4,1800,750,0,7200,4200
+ORD0891,2023-05-26,C015,Amit Kumar,Patna,Retail,East,Furniture,Study Table,5,5500,3000,0.05,26125.0,11875.0
+ORD0892,2022-02-08,C010,Ritu Joshi,Lucknow,SME,West,Appliances,Room Heater,6,3000,1500,0,18000,9000
+ORD0893,2022-03-23,C009,Mohit Verma,Pune,SME,North,Furniture,Study Table,5,5500,3000,0.05,26125.0,11875.0
+ORD0894,2023-09-17,C012,Pooja Saxena,Indore,SME,North,Electronics,Wireless Earbuds,8,3500,1200,0.15,23800.0,15640.0
+ORD0895,2023-10-11,C001,Aarav Sharma,Delhi,SME,East,Appliances,Table Fan,5,1800,900,0.1,8100.0,4050.0
+ORD0896,2022-01-12,C010,Ritu Joshi,Lucknow,Corporate,East,Clothing,Jacket Winter,9,3500,1500,0.05,29925.0,17100.0
+ORD0897,2022-12-28,C012,Pooja Saxena,Indore,SME,East,Office Supplies,Pen Box 50,3,300,100,0,900,600
+ORD0898,2023-08-01,C003,Rohan Gupta,Bangalore,SME,North,Office Supplies,A4 Paper Ream,8,350,150,0.1,2520.0,1440.0
+ORD0899,2022-10-26,C002,Priya Mehta,Mumbai,SME,South,Appliances,Microwave 20L,5,8000,4500,0.05,38000.0,16625.0
+ORD0900,2022-03-20,C005,Vikram Singh,Jaipur,Corporate,East,Office Supplies,Pen Box 50,3,300,100,0.1,810.0,540.0
+ORD0901,2022-01-15,C012,Pooja Saxena,Indore,SME,South,Electronics,Tablet 10,3,15000,9000,0.1,40500.0,16200.0
+ORD0902,2023-04-03,C004,Sneha Patel,Ahmedabad,Retail,West,Office Supplies,Stapler Set,5,600,250,0.15,2550.0,1487.5
+ORD0903,2023-06-25,C010,Ritu Joshi,Lucknow,Corporate,South,Electronics,Smartphone X,2,22000,12000,0,44000,20000
+ORD0904,2023-02-27,C011,Siddharth Das,Bhopal,Retail,South,Clothing,Women's Kurta,8,900,380,0.15,6120.0,3536.0
+ORD0905,2023-08-15,C001,Aarav Sharma,Delhi,Corporate,South,Office Supplies,A4 Paper Ream,5,350,150,0,1750,1000
+ORD0906,2023-02-13,C013,Rahul Tiwari,Nagpur,Corporate,South,Clothing,Denim Jeans,8,1800,750,0.15,12240.0,7140.0
+ORD0907,2023-12-01,C009,Mohit Verma,Pune,Retail,West,Clothing,Jacket Winter,5,3500,1500,0,17500,10000
+ORD0908,2022-10-23,C011,Siddharth Das,Bhopal,Retail,North,Clothing,Jacket Winter,6,3500,1500,0.1,18900.0,10800.0
+ORD0909,2023-06-29,C014,Neha Bhatia,Chandigarh,Corporate,East,Office Supplies,Whiteboard,10,2500,1200,0.15,21250.0,11050.0
+ORD0910,2022-10-04,C010,Ritu Joshi,Lucknow,Corporate,West,Office Supplies,A4 Paper Ream,5,350,150,0.15,1487.5,850.0
+ORD0911,2023-11-23,C006,Ananya Roy,Kolkata,Corporate,South,Furniture,Study Table,4,5500,3000,0.1,19800.0,9000.0
+ORD0912,2023-07-15,C007,Arjun Nair,Chennai,SME,North,Electronics,Laptop Pro 15,2,45000,28000,0,90000,34000
+ORD0913,2022-04-17,C005,Vikram Singh,Jaipur,Retail,East,Clothing,Denim Jeans,4,1800,750,0.15,6120.0,3570.0
+ORD0914,2022-02-04,C010,Ritu Joshi,Lucknow,SME,South,Electronics,Tablet 10,2,15000,9000,0,30000,12000
+ORD0915,2023-10-16,C003,Rohan Gupta,Bangalore,SME,West,Electronics,Laptop Pro 15,2,45000,28000,0.1,81000.0,30600.0
+ORD0916,2023-10-26,C003,Rohan Gupta,Bangalore,Corporate,East,Appliances,Air Purifier,2,12000,7000,0.15,20400.0,8500.0
+ORD0917,2023-04-24,C012,Pooja Saxena,Indore,Corporate,East,Electronics,Smart Watch,5,8000,4500,0.05,38000.0,16625.0
+ORD0918,2022-06-15,C007,Arjun Nair,Chennai,Retail,East,Electronics,Smartphone X,1,22000,12000,0.05,20900.0,9500.0
+ORD0919,2022-09-22,C008,Kavya Iyer,Hyderabad,SME,South,Office Supplies,Stapler Set,8,600,250,0,4800,2800
+ORD0920,2023-02-07,C009,Mohit Verma,Pune,Retail,West,Furniture,Sofa 3-Seater,2,25000,14000,0,50000,22000
+ORD0921,2023-09-21,C001,Aarav Sharma,Delhi,Retail,North,Electronics,Smart Watch,5,8000,4500,0,40000,17500
+ORD0922,2023-08-09,C003,Rohan Gupta,Bangalore,Retail,North,Office Supplies,Whiteboard,1,2500,1200,0.05,2375.0,1235.0
+ORD0923,2023-11-12,C006,Ananya Roy,Kolkata,SME,West,Clothing,Denim Jeans,3,1800,750,0.15,4590.0,2677.5
+ORD0924,2022-01-04,C007,Arjun Nair,Chennai,SME,North,Appliances,Room Heater,8,3000,1500,0.05,22800.0,11400.0
+ORD0925,2022-08-20,C010,Ritu Joshi,Lucknow,Corporate,East,Electronics,Smart Watch,8,8000,4500,0,64000,28000
+ORD0926,2023-11-30,C011,Siddharth Das,Bhopal,Corporate,North,Office Supplies,Whiteboard,1,2500,1200,0.15,2125.0,1105.0
+ORD0927,2023-07-02,C011,Siddharth Das,Bhopal,Retail,South,Office Supplies,A4 Paper Ream,8,350,150,0,2800,1600
+ORD0928,2023-07-22,C012,Pooja Saxena,Indore,Retail,West,Electronics,Smart Watch,4,8000,4500,0,32000,14000
+ORD0929,2023-10-08,C008,Kavya Iyer,Hyderabad,Retail,South,Office Supplies,Whiteboard,2,2500,1200,0.15,4250.0,2210.0
+ORD0930,2022-02-06,C008,Kavya Iyer,Hyderabad,Retail,West,Furniture,Office Chair,10,6500,3200,0,65000,33000
+ORD0931,2023-07-08,C001,Aarav Sharma,Delhi,Corporate,North,Office Supplies,Whiteboard,9,2500,1200,0.05,21375.0,11115.0
+ORD0932,2022-02-27,C004,Sneha Patel,Ahmedabad,SME,West,Office Supplies,A4 Paper Ream,7,350,150,0,2450,1400
+ORD0933,2023-07-04,C001,Aarav Sharma,Delhi,Corporate,South,Furniture,Study Table,4,5500,3000,0,22000,10000
+ORD0934,2023-11-01,C004,Sneha Patel,Ahmedabad,Retail,South,Electronics,Smart Watch,10,8000,4500,0,80000,35000
+ORD0935,2022-06-26,C010,Ritu Joshi,Lucknow,SME,South,Electronics,Smartphone X,2,22000,12000,0.05,41800.0,19000.0
+ORD0936,2022-03-07,C013,Rahul Tiwari,Nagpur,Retail,South,Electronics,Laptop Pro 15,8,45000,28000,0.1,324000.0,122400.0
+ORD0937,2022-07-27,C002,Priya Mehta,Mumbai,Corporate,South,Clothing,Denim Jeans,7,1800,750,0,12600,7350
+ORD0938,2022-08-07,C002,Priya Mehta,Mumbai,Corporate,North,Electronics,Tablet 10,3,15000,9000,0,45000,18000
+ORD0939,2022-05-25,C003,Rohan Gupta,Bangalore,Retail,West,Clothing,Women's Kurta,6,900,380,0.1,4860.0,2808.0
+ORD0940,2023-08-19,C010,Ritu Joshi,Lucknow,Retail,West,Electronics,Wireless Earbuds,2,3500,1200,0.15,5950.0,3910.0
+ORD0941,2022-01-17,C003,Rohan Gupta,Bangalore,SME,North,Clothing,Men's Formal Shirt,1,1200,500,0,1200,700
+ORD0942,2023-10-30,C013,Rahul Tiwari,Nagpur,SME,West,Appliances,Electric Kettle,7,1500,700,0.15,8925.0,4760.0
+ORD0943,2022-05-10,C008,Kavya Iyer,Hyderabad,Retail,West,Furniture,Standing Desk,5,12000,7000,0.1,54000.0,22500.0
+ORD0944,2022-06-28,C012,Pooja Saxena,Indore,SME,West,Appliances,Microwave 20L,10,8000,4500,0,80000,35000
+ORD0945,2022-04-01,C009,Mohit Verma,Pune,Retail,South,Office Supplies,Pen Box 50,7,300,100,0,2100,1400
+ORD0946,2022-05-01,C014,Neha Bhatia,Chandigarh,Corporate,South,Appliances,Microwave 20L,10,8000,4500,0,80000,35000
+ORD0947,2023-10-04,C002,Priya Mehta,Mumbai,SME,South,Furniture,Bookshelf,1,4000,2000,0,4000,2000
+ORD0948,2023-05-01,C015,Amit Kumar,Patna,Retail,North,Clothing,Women's Kurta,3,900,380,0.15,2295.0,1326.0
+ORD0949,2023-10-23,C005,Vikram Singh,Jaipur,SME,East,Office Supplies,Pen Box 50,4,300,100,0.05,1140.0,760.0
+ORD0950,2023-04-10,C003,Rohan Gupta,Bangalore,Retail,South,Electronics,Laptop Pro 15,1,45000,28000,0.1,40500.0,15300.0
+ORD0951,2023-05-12,C012,Pooja Saxena,Indore,SME,West,Appliances,Microwave 20L,2,8000,4500,0,16000,7000
+ORD0952,2023-08-17,C011,Siddharth Das,Bhopal,Retail,East,Office Supplies,Whiteboard,4,2500,1200,0.15,8500.0,4420.0
+ORD0953,2022-04-23,C012,Pooja Saxena,Indore,Retail,West,Office Supplies,Stapler Set,2,600,250,0,1200,700
+ORD0954,2023-01-20,C008,Kavya Iyer,Hyderabad,Corporate,North,Furniture,Office Chair,8,6500,3200,0.1,46800.0,23760.0
+ORD0955,2022-05-29,C007,Arjun Nair,Chennai,Retail,East,Furniture,Study Table,8,5500,3000,0,44000,20000
+ORD0956,2023-04-14,C006,Ananya Roy,Kolkata,Retail,South,Furniture,Bookshelf,5,4000,2000,0,20000,10000
+ORD0957,2023-12-10,C002,Priya Mehta,Mumbai,Corporate,West,Appliances,Microwave 20L,5,8000,4500,0,40000,17500
+ORD0958,2023-03-05,C010,Ritu Joshi,Lucknow,SME,South,Furniture,Bookshelf,4,4000,2000,0,16000,8000
+ORD0959,2023-09-19,C002,Priya Mehta,Mumbai,SME,West,Furniture,Study Table,9,5500,3000,0,49500,22500
+ORD0960,2023-05-16,C005,Vikram Singh,Jaipur,SME,North,Furniture,Study Table,8,5500,3000,0.05,41800.0,19000.0
+ORD0961,2023-03-15,C010,Ritu Joshi,Lucknow,SME,South,Furniture,Standing Desk,6,12000,7000,0.05,68400.0,28500.0
+ORD0962,2022-06-02,C001,Aarav Sharma,Delhi,SME,West,Appliances,Microwave 20L,7,8000,4500,0,56000,24500
+ORD0963,2023-06-01,C008,Kavya Iyer,Hyderabad,Corporate,North,Electronics,Smart Watch,9,8000,4500,0.05,68400.0,29925.0
+ORD0964,2023-05-23,C012,Pooja Saxena,Indore,Retail,West,Furniture,Office Chair,9,6500,3200,0,58500,29700
+ORD0965,2022-05-16,C002,Priya Mehta,Mumbai,Corporate,North,Office Supplies,Pen Box 50,4,300,100,0.15,1020.0,680.0
+ORD0966,2023-11-17,C012,Pooja Saxena,Indore,Corporate,North,Office Supplies,Stapler Set,8,600,250,0.1,4320.0,2520.0
+ORD0967,2023-04-20,C011,Siddharth Das,Bhopal,SME,West,Furniture,Sofa 3-Seater,3,25000,14000,0,75000,33000
+ORD0968,2023-10-11,C006,Ananya Roy,Kolkata,Corporate,North,Electronics,Laptop Pro 15,7,45000,28000,0.15,267750.0,101150.0
+ORD0969,2023-03-13,C013,Rahul Tiwari,Nagpur,SME,South,Office Supplies,Sticky Notes,9,200,80,0.1,1620.0,972.0
+ORD0970,2022-03-24,C015,Amit Kumar,Patna,Retail,East,Appliances,Electric Kettle,1,1500,700,0.1,1350.0,720.0
+ORD0971,2022-04-24,C001,Aarav Sharma,Delhi,Corporate,East,Clothing,Denim Jeans,8,1800,750,0.1,12960.0,7560.0
+ORD0972,2022-06-29,C013,Rahul Tiwari,Nagpur,Retail,South,Appliances,Microwave 20L,9,8000,4500,0.15,61200.0,26775.0
+ORD0973,2022-12-09,C008,Kavya Iyer,Hyderabad,SME,South,Furniture,Study Table,2,5500,3000,0.15,9350.0,4250.0
+ORD0974,2022-08-19,C011,Siddharth Das,Bhopal,Corporate,West,Office Supplies,Pen Box 50,5,300,100,0.1,1350.0,900.0
+ORD0975,2022-02-25,C008,Kavya Iyer,Hyderabad,Corporate,North,Electronics,Smartphone X,6,22000,12000,0.05,125400.0,57000.0
+ORD0976,2023-12-28,C010,Ritu Joshi,Lucknow,SME,East,Appliances,Table Fan,5,1800,900,0.05,8550.0,4275.0
+ORD0977,2023-12-11,C002,Priya Mehta,Mumbai,Retail,West,Electronics,Wireless Earbuds,8,3500,1200,0,28000,18400
+ORD0978,2022-10-23,C002,Priya Mehta,Mumbai,Corporate,South,Electronics,Laptop Pro 15,3,45000,28000,0,135000,51000
+ORD0979,2022-06-04,C007,Arjun Nair,Chennai,Corporate,South,Furniture,Study Table,1,5500,3000,0,5500,2500
+ORD0980,2022-12-22,C004,Sneha Patel,Ahmedabad,Retail,North,Clothing,Jacket Winter,1,3500,1500,0,3500,2000
+ORD0981,2022-08-26,C006,Ananya Roy,Kolkata,Corporate,East,Appliances,Electric Kettle,7,1500,700,0.1,9450.0,5040.0
+ORD0982,2023-08-31,C005,Vikram Singh,Jaipur,Corporate,South,Appliances,Table Fan,8,1800,900,0.05,13680.0,6840.0
+ORD0983,2022-06-25,C005,Vikram Singh,Jaipur,Retail,North,Office Supplies,Stapler Set,8,600,250,0,4800,2800
+ORD0984,2022-12-28,C015,Amit Kumar,Patna,SME,South,Office Supplies,Whiteboard,3,2500,1200,0.1,6750.0,3510.0
+ORD0985,2023-07-03,C012,Pooja Saxena,Indore,Retail,South,Office Supplies,Stapler Set,3,600,250,0.15,1530.0,892.5
+ORD0986,2022-09-01,C003,Rohan Gupta,Bangalore,Corporate,West,Electronics,Laptop Pro 15,6,45000,28000,0.1,243000.0,91800.0
+ORD0987,2023-01-14,C001,Aarav Sharma,Delhi,Corporate,East,Furniture,Standing Desk,9,12000,7000,0.15,91800.0,38250.0
+ORD0988,2022-06-01,C009,Mohit Verma,Pune,Retail,East,Office Supplies,Whiteboard,9,2500,1200,0,22500,11700
+ORD0989,2022-01-26,C015,Amit Kumar,Patna,Retail,East,Clothing,Jacket Winter,3,3500,1500,0.05,9975.0,5700.0
+ORD0990,2022-01-05,C012,Pooja Saxena,Indore,Corporate,East,Appliances,Table Fan,6,1800,900,0.15,9180.0,4590.0
+ORD0991,2022-10-24,C015,Amit Kumar,Patna,Corporate,West,Appliances,Air Purifier,10,12000,7000,0.15,102000.0,42500.0
+ORD0992,2023-12-07,C011,Siddharth Das,Bhopal,Corporate,North,Electronics,Smart Watch,1,8000,4500,0,8000,3500
+ORD0993,2022-01-26,C006,Ananya Roy,Kolkata,Corporate,North,Clothing,Sports Tshirt,4,800,300,0.05,3040.0,1900.0
+ORD0994,2022-02-26,C004,Sneha Patel,Ahmedabad,Retail,East,Appliances,Air Purifier,10,12000,7000,0.1,108000.0,45000.0
+ORD0995,2022-01-24,C011,Siddharth Das,Bhopal,SME,North,Electronics,Tablet 10,8,15000,9000,0.15,102000.0,40800.0
+ORD0996,2023-02-08,C010,Ritu Joshi,Lucknow,SME,North,Furniture,Sofa 3-Seater,6,25000,14000,0.1,135000.0,59400.0
+ORD0997,2023-01-05,C007,Arjun Nair,Chennai,Retail,East,Clothing,Women's Kurta,7,900,380,0,6300,3640
+ORD0998,2022-10-19,C014,Neha Bhatia,Chandigarh,Retail,North,Office Supplies,Pen Box 50,5,300,100,0.05,1425.0,950.0
+ORD0999,2023-03-31,C013,Rahul Tiwari,Nagpur,SME,West,Clothing,Jacket Winter,5,3500,1500,0,17500,10000
+ORD1000,2023-03-01,C003,Rohan Gupta,Bangalore,Corporate,South,Furniture,Study Table,10,5500,3000,0,55000,25000
