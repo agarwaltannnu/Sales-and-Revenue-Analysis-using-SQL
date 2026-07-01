@@ -1,6 +1,6 @@
 # Sales & Revenue Analysis using SQL (MySQL)
 
-A SQL-based business analysis project on a simulated Indian retail company's sales data — 1,000 orders across 2 fiscal years (2022–2023), covering multiple product categories, customer segments, and regions. Built to practice writing real analytical SQL queries that a finance or business analyst would actually use.
+This project analyzes the sales performance of a simulated Indian retail company using SQL and Microsoft Excel. Based on 1,000 customer orders spanning FY2022–FY2023, the project explores revenue trends, profitability, customer segments, regional performance, and sales growth through business-oriented SQL queries and interactive dashboard visualizations.
 
 ## Dataset
 
@@ -102,14 +102,21 @@ Or manually import the CSV via MySQL Workbench → Table Data Import Wizard (rig
 
 ![YoY Growth](YOY_growth.png)
 
-## Tools
+## Dashboard
+
+The SQL query outputs were summarized and visualized using Microsoft Excel through an interactive dashboard highlighting key business KPIs, revenue trends, customer segmentation, regional performance, and business insights.
+
+![Dashboard](Sales_Analysis_Dashboard.png)
+
+## Tools & Technologies
 
 - MySQL 8.0
 - MySQL Workbench
 - SQL
-- CSV (Synthetic Retail Sales Dataset)
+- Microsoft Excel
 - Git & GitHub
-- The project uses a synthetic retail sales dataset created for practicing business-oriented SQL analysis and reporting.
+
+**Dataset:** Synthetic retail sales dataset created for practicing business-oriented SQL analysis and reporting.
 
   ## Skills Demonstrated
 
