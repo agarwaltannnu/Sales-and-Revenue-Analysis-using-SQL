@@ -21,6 +21,16 @@ A SQL-based business analysis project on a simulated Indian retail company's sal
 | revenue | Final revenue after discount |
 | profit | Final profit after discount |
 
+## Features
+
+- Business-oriented SQL analysis
+- Revenue and profit trend analysis
+- Customer segmentation
+- Regional performance comparison
+- Product profitability analysis
+- Window Functions for cumulative revenue
+- Year-over-Year and Quarter-wise growth analysis
+
 ## Queries Written (analysis.sql)
 
 12 analytical queries covering real business questions:
@@ -70,7 +80,43 @@ Or manually import the CSV via MySQL Workbench → Table Data Import Wizard (rig
 - **Window Functions** — `SUM() OVER (ORDER BY ...)` for running totals
 - Subqueries for percentage-of-total calculations
 
+  ## Sample Query Outputs
+
+### Overall Business Summary
+
+![Business Summary](business_summary.png)
+
+### Monthly Revenue Trend
+
+![Monthly Trend](monthly_trend.png)
+
+### Region-wise Performance
+
+![Region Performance](region_performance.png)
+
+### Customer Segment Analysis
+
+![Customer Segment](customer_segment.png)
+
+### Year-over-Year Growth
+
+![YoY Growth](YOY_growth.png)
+
 ## Tools
 
-- MySQL 8.0 + MySQL Workbench
-- Dataset generated in Python, mimicking real Indian retail sales patterns
+- MySQL 8.0
+- MySQL Workbench
+- SQL
+- CSV (Synthetic Retail Sales Dataset)
+- Git & GitHub
+- The project uses a synthetic retail sales dataset created for practicing business-oriented SQL analysis and reporting.
+
+  ## Skills Demonstrated
+
+- SQL
+- MySQL
+- Business Analytics
+- Data Analysis
+- Window Functions
+- Aggregation
+- Financial Reporting
